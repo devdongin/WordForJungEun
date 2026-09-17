@@ -36,7 +36,8 @@ ROOT = Path(__file__).resolve().parent.parent
 WORDS_FILE = ROOT / "words" / "n5.json"
 INDEX_FILE = ROOT / "words" / "index.json"
 POS_CHOICES = ["명사", "대명사", "동사", "い형용사", "な형용사", "부사", "명사·する동사", "접속사", "감동사", "조사", "접두사", "접미사", "연체사", "수사", "표현"]
-MODEL = "claude-opus-5"
+# 뜻과 예문 번역 정도라 Opus보다 가벼운 Sonnet을 쓴다. Haiku는 뜻 오타와 오역이 잦았다.
+MODEL = "claude-sonnet-5"
 BATCH_SIZE = 25
 
 
@@ -143,13 +144,11 @@ def ask_api(batch: list[dict]) -> list[dict]:
 
     client = anthropic.Anthropic()
     try:
-        response = client.beta.messages.create(
+        response = client.messages.create(
             model=MODEL,
             max_tokens=16000,
-            betas=["server-side-fallback-2026-07-01"],
-            fallbacks="default",
             thinking={"type": "adaptive"},
-            output_config={"effort": "medium", "format": {"type": "json_schema", "schema": SCHEMA}},
+            output_config={"effort": "low", "format": {"type": "json_schema", "schema": SCHEMA}},
             messages=[{"role": "user", "content": PROMPT.format(words=listing_for(batch))}],
         )
     except anthropic.AuthenticationError:
