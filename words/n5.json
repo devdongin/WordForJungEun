@@ -3154,5 +3154,375 @@
     ],
     "rank": 172,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-女-おんな",
+    "kanji": "女",
+    "reading": "おんな",
+    "meanings": [
+      "여자",
+      "여성"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの女の人は先生です。",
+      "ko": "저 여자분은 선생님입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 173,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-女の子-おんなのこ",
+    "kanji": "女の子",
+    "reading": "おんなのこ",
+    "meanings": [
+      "여자아이",
+      "소녀"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園に女の子がいます。",
+      "ko": "공원에 여자아이가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 174,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-外国-がいこく",
+    "kanji": "外国",
+    "reading": "がいこく",
+    "meanings": [
+      "외국"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "外国に行きたいです。",
+      "ko": "외국에 가고 싶습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 175,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-外国人-がいこくじん",
+    "kanji": "外国人",
+    "reading": "がいこくじん",
+    "meanings": [
+      "외국인"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "クラスに外国人がいます。",
+      "ko": "반에 외국인이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 176,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-階段-かいだん",
+    "kanji": "階段",
+    "reading": "かいだん",
+    "meanings": [
+      "계단"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "階段で二階に上がります。",
+      "ko": "계단으로 2층에 올라갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 177,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-買い物-かいもの",
+    "kanji": "買い物",
+    "reading": "かいもの",
+    "meanings": [
+      "쇼핑",
+      "장보기"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "デパートで買い物をします。",
+      "ko": "백화점에서 쇼핑을 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 178,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-返す-かえす",
+    "kanji": "返す",
+    "reading": "かえす",
+    "meanings": [
+      "돌려주다",
+      "반납하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "図書館に本を返します。",
+      "ko": "도서관에 책을 반납합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 179,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-帰る-かえる",
+    "kanji": "帰る",
+    "reading": "かえる",
+    "meanings": [
+      "돌아가다",
+      "귀가하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "六時に家に帰ります。",
+      "ko": "6시에 집에 돌아갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 180,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-顔-かお",
+    "kanji": "顔",
+    "reading": "かお",
+    "meanings": [
+      "얼굴"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "顔を洗います。",
+      "ko": "얼굴을 씻습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 181,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-かかる-かかる",
+    "kanji": "",
+    "reading": "かかる",
+    "meanings": [
+      "걸리다",
+      "들다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "駅まで十分かかります。",
+      "ko": "역까지 10분 걸립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 182,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鍵-かぎ",
+    "kanji": "鍵",
+    "reading": "かぎ",
+    "meanings": [
+      "열쇠",
+      "자물쇠"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ドアに鍵をかけます。",
+      "ko": "문에 자물쇠를 잠급니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 183,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-掛ける-かける",
+    "kanji": "掛ける",
+    "reading": "かける",
+    "meanings": [
+      "쓰다",
+      "걸다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "眼鏡を掛けます。",
+      "ko": "안경을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 184,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-かける-かける",
+    "kanji": "",
+    "reading": "かける",
+    "meanings": [
+      "걸다",
+      "앉다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達に電話をかけます。",
+      "ko": "친구에게 전화를 겁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 185,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-傘-かさ",
+    "kanji": "傘",
+    "reading": "かさ",
+    "meanings": [
+      "우산"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "雨なので傘を持って行きます。",
+      "ko": "비가 와서 우산을 가지고 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 186,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-貸す-かす",
+    "kanji": "貸す",
+    "reading": "かす",
+    "meanings": [
+      "빌려주다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達にお金を貸します。",
+      "ko": "친구에게 돈을 빌려줍니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 187,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-風-かぜ",
+    "kanji": "風",
+    "reading": "かぜ",
+    "meanings": [
+      "바람"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日は風が強いです。",
+      "ko": "오늘은 바람이 강합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 188,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-風邪-かぜ",
+    "kanji": "風邪",
+    "reading": "かぜ",
+    "meanings": [
+      "감기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "風邪を引きました。",
+      "ko": "감기에 걸렸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 189,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-方-かた",
+    "kanji": "方",
+    "reading": "かた",
+    "meanings": [
+      "분",
+      "방법"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの方は田中さんです。",
+      "ko": "저분은 다나카 씨입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 190,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-片仮名-かたかな",
+    "kanji": "片仮名",
+    "reading": "かたかな",
+    "meanings": [
+      "가타카나"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "片仮名で名前を書きます。",
+      "ko": "가타카나로 이름을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 191,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-カップ-カップ",
+    "kanji": "",
+    "reading": "カップ",
+    "meanings": [
+      "컵"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "カップに水を入れます。",
+      "ko": "컵에 물을 넣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 192,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
