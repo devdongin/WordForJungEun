@@ -234,7 +234,7 @@ WordForJungeun/
   학습 중 → 복습 전환, 복습 간격 1/3/7/14/30/60일, 복습 연속 2회 오답 시 학습 중으로, 결과 화면, 틀린 단어 다시 풀기(연습), 연속 학습 일수.
 - 단어 수집 Action (2026-09-17): `.github/workflows/collect-words.yml` + `scripts/collect_words.py`.
   - 출처: open-anki-jlpt-decks N5 목록 (MIT). 저장소에 없는 단어를 목록 순서대로 가져옴.
-  - Claude API(claude-opus-5)로 한국어 뜻, 품사, 예문 생성. 저장소 Secret `ANTHROPIC_API_KEY` 필요. 없으면 후보만 요약에 보여줌.
+  - claude-opus-5로 한국어 뜻, 품사, 예문 생성. 인증은 Secret `CLAUDE_CODE_OAUTH_TOKEN`(구독, Claude Code CLI 사용)을 먼저 쓰고, 없으면 `ANTHROPIC_API_KEY`(API). 둘 다 없으면 실패로 끝남.
   - 수동 실행(가져올 개수 입력) + 매주 월요일 오전 6시 자동 실행.
   - 첫 수집 (2026-09-17): API 키가 없어 `--enriched` 뜻 파일로 20개 추가 (ああ ~ 厚い). N5 총 70개.
 - HTML에서 GitHub 등록 (2026-09-17): 설정에 Fine-grained 토큰(이 저장소 Contents 읽기/쓰기) 저장 시,

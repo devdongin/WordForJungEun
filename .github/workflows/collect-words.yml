@@ -26,11 +26,15 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: SDK 설치
-        run: pip install anthropic
+      - name: Claude Code, SDK 설치
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          pip install anthropic
 
+      # 구독 토큰(CLAUDE_CODE_OAUTH_TOKEN)이 있으면 구독으로, 없으면 API 키로 뜻을 만든다
       - name: 단어 수집
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           COUNT: ${{ github.event.inputs.count || '20' }}
         run: python scripts/collect_words.py --count "$COUNT"
