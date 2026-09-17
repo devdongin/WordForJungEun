@@ -909,5 +909,372 @@
     ],
     "rank": 50,
     "source": "sample"
+  },
+  {
+    "id": "jp-ああ-ああ",
+    "kanji": "",
+    "reading": "ああ",
+    "meanings": [
+      "아",
+      "오"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "ああ、そうですか。",
+      "ko": "아, 그렇습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 51,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-会う-あう",
+    "kanji": "会う",
+    "reading": "あう",
+    "meanings": [
+      "만나다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "駅で友達に会います。",
+      "ko": "역에서 친구를 만납니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 52,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-青-あお",
+    "kanji": "青",
+    "reading": "あお",
+    "meanings": [
+      "파랑",
+      "파란색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "青が好きです。",
+      "ko": "파란색을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 53,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-青い-あおい",
+    "kanji": "青い",
+    "reading": "あおい",
+    "meanings": [
+      "파랗다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "空が青いです。",
+      "ko": "하늘이 파랗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 54,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-赤-あか",
+    "kanji": "赤",
+    "reading": "あか",
+    "meanings": [
+      "빨강",
+      "빨간색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "赤のペンを使います。",
+      "ko": "빨간색 펜을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 55,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-赤い-あかい",
+    "kanji": "赤い",
+    "reading": "あかい",
+    "meanings": [
+      "빨갛다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "赤いりんごを買いました。",
+      "ko": "빨간 사과를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 56,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-明るい-あかるい",
+    "kanji": "明るい",
+    "reading": "あかるい",
+    "meanings": [
+      "밝다",
+      "명랑하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この部屋は明るいです。",
+      "ko": "이 방은 밝습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 57,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-秋-あき",
+    "kanji": "秋",
+    "reading": "あき",
+    "meanings": [
+      "가을"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "秋は涼しいです。",
+      "ko": "가을은 선선합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 58,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-開く-あく",
+    "kanji": "開く",
+    "reading": "あく",
+    "meanings": [
+      "열리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ドアが開きました。",
+      "ko": "문이 열렸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 59,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-開ける-あける",
+    "kanji": "開ける",
+    "reading": "あける",
+    "meanings": [
+      "열다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "窓を開けてください。",
+      "ko": "창문을 열어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 60,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-上げる-あげる",
+    "kanji": "上げる",
+    "reading": "あげる",
+    "meanings": [
+      "올리다",
+      "들다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "手を上げてください。",
+      "ko": "손을 들어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 61,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-朝御飯-あさごはん",
+    "kanji": "朝御飯",
+    "reading": "あさごはん",
+    "meanings": [
+      "아침밥",
+      "아침 식사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日朝御飯を食べます。",
+      "ko": "매일 아침밥을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 62,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-明後日-あさって",
+    "kanji": "明後日",
+    "reading": "あさって",
+    "meanings": [
+      "모레"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明後日は日曜日です。",
+      "ko": "모레는 일요일입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 63,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あそこ-あそこ",
+    "kanji": "",
+    "reading": "あそこ",
+    "meanings": [
+      "저기",
+      "저곳"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あそこに銀行があります。",
+      "ko": "저기에 은행이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 64,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-遊ぶ-あそぶ",
+    "kanji": "遊ぶ",
+    "reading": "あそぶ",
+    "meanings": [
+      "놀다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "公園で子供が遊んでいます。",
+      "ko": "공원에서 아이가 놀고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 65,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-暖かい-あたたかい",
+    "kanji": "暖かい",
+    "reading": "あたたかい",
+    "meanings": [
+      "따뜻하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "今日は暖かいですね。",
+      "ko": "오늘은 따뜻하네요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 66,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-頭-あたま",
+    "kanji": "頭",
+    "reading": "あたま",
+    "meanings": [
+      "머리"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "頭が痛いです。",
+      "ko": "머리가 아픕니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 67,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あちら-あちら",
+    "kanji": "",
+    "reading": "あちら",
+    "meanings": [
+      "저쪽"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "トイレはあちらです。",
+      "ko": "화장실은 저쪽입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 68,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-熱い-あつい",
+    "kanji": "熱い",
+    "reading": "あつい",
+    "meanings": [
+      "뜨겁다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このお茶は熱いです。",
+      "ko": "이 차는 뜨겁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 69,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-厚い-あつい",
+    "kanji": "厚い",
+    "reading": "あつい",
+    "meanings": [
+      "두껍다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この辞書は厚いです。",
+      "ko": "이 사전은 두껍습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 70,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]

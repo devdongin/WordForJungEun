@@ -8,6 +8,11 @@ ANTHROPIC_API_KEY가 없으면 후보 단어만 보여주고 파일은 바꾸지
 사용법:
     python scripts/collect_words.py --count 20
     python scripts/collect_words.py --count 20 --dry-run
+    python scripts/collect_words.py --count 20 --enriched meanings.json
+
+--enriched 파일을 주면 Claude를 부르지 않고 파일의 뜻을 쓴다. 형식:
+    [{"kanji": "会う", "reading": "あう", "meanings": ["만나다"], "pos": "동사",
+      "example_jp": "駅で友達に会います。", "example_ko": "역에서 친구를 만납니다."}]
 """
 
 import argparse
@@ -143,10 +148,24 @@ def enrich(candidates: list[dict]) -> list[dict]:
     return enriched
 
 
+def from_file(candidates: list[dict], path: Path) -> list[dict]:
+    entries = {key(e.get("kanji", ""), e["reading"]): e for e in json.loads(path.read_text(encoding="utf-8"))}
+    out = []
+    for c in candidates:
+        e = entries.get(key(c["kanji"], c["reading"]))
+        meanings = [m.strip() for m in (e or {}).get("meanings", []) if m.strip()]
+        if not e or not meanings or e.get("pos") not in POS_CHOICES:
+            print(f"건너뜀: {c['kanji'] or c['reading']} (파일에 뜻이나 올바른 품사가 없음)")
+            continue
+        out.append({**c, "meanings": meanings, "pos": e["pos"], "example_jp": e.get("example_jp", "").strip(), "example_ko": e.get("example_ko", "").strip()})
+    return out
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--count", type=int, default=20)
     parser.add_argument("--dry-run", action="store_true", help="후보만 보여주고 파일을 바꾸지 않음")
+    parser.add_argument("--enriched", type=Path, help="Claude 대신 쓸 한국어 뜻 JSON 파일")
     args = parser.parse_args()
 
     words = json.loads(WORDS_FILE.read_text(encoding="utf-8"))
@@ -160,7 +179,7 @@ def main() -> None:
         return
 
     has_key = bool(os.environ.get("ANTHROPIC_API_KEY") or os.environ.get("ANTHROPIC_AUTH_TOKEN"))
-    if args.dry_run or not has_key:
+    if args.dry_run or not (has_key or args.enriched):
         summary(f"## 수집 후보 {len(candidates)}개\n")
         for c in candidates:
             summary(f"- {c['kanji'] or c['reading']} ({c['reading']}): {c['english']}")
@@ -168,7 +187,7 @@ def main() -> None:
             summary("\nANTHROPIC_API_KEY Secret이 없어 한국어 뜻을 만들지 못했습니다. 단어는 추가하지 않았습니다.")
         return
 
-    enriched = enrich(candidates)
+    enriched = from_file(candidates, args.enriched) if args.enriched else enrich(candidates)
     next_rank = max((w.get("rank", 0) for w in words), default=0) + 1
     added = []
     for offset, e in enumerate(enriched):
