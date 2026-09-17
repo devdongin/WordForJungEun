@@ -1295,5 +1295,25 @@
     ],
     "rank": 71,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-後-あと",
+    "kanji": "後",
+    "reading": "あと",
+    "meanings": [
+      "후",
+      "나중",
+      "그 후"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "後でまた電話します。",
+      "ko": "나중에 다시 전화할게요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 72,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
