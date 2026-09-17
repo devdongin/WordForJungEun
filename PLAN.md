@@ -236,6 +236,7 @@ WordForJungeun/
   - 출처: open-anki-jlpt-decks N5 목록 (MIT). 저장소에 없는 단어를 목록 순서대로 가져옴.
   - Claude API(claude-opus-5)로 한국어 뜻, 품사, 예문 생성. 저장소 Secret `ANTHROPIC_API_KEY` 필요. 없으면 후보만 요약에 보여줌.
   - 수동 실행(가져올 개수 입력) + 매주 월요일 오전 6시 자동 실행.
+  - 첫 수집 (2026-09-17): API 키가 없어 `--enriched` 뜻 파일로 20개 추가 (ああ ~ 厚い). N5 총 70개.
 - HTML에서 GitHub 등록 (2026-09-17): 설정에 Fine-grained 토큰(이 저장소 Contents 읽기/쓰기) 저장 시,
   단어 추가 화면에서 `words/custom.json` 에 바로 등록하고 `index.json` 버전을 올림. 토큰은 브라우저에만 저장, 백업 제외.
 - 로컬 확인: `python -m http.server 8765` 후 `http://localhost:8765/app/단어장.html` (이때는 로컬 `words/` 를 읽음).
