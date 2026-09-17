@@ -1315,5 +1315,1844 @@
     ],
     "rank": 72,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あなた-あなた",
+    "kanji": "",
+    "reading": "あなた",
+    "meanings": [
+      "당신",
+      "너"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あなたの名前は何ですか。",
+      "ko": "당신의 이름은 무엇입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 73,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-兄-あに",
+    "kanji": "兄",
+    "reading": "あに",
+    "meanings": [
+      "형",
+      "오빠"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私の兄は医者です。",
+      "ko": "제 형은 의사입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 74,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-姉-あね",
+    "kanji": "姉",
+    "reading": "あね",
+    "meanings": [
+      "누나",
+      "언니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "姉は毎日忙しいです。",
+      "ko": "누나는 매일 바쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 75,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-アパート-アパート",
+    "kanji": "",
+    "reading": "アパート",
+    "meanings": [
+      "아파트"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私はアパートに住んでいます。",
+      "ko": "저는 아파트에 살고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 76,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あの-あの",
+    "kanji": "",
+    "reading": "あの",
+    "meanings": [
+      "저",
+      "저기 저"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "あの人は先生です。",
+      "ko": "저 사람은 선생님입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 77,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-浴びる-あびる",
+    "kanji": "浴びる",
+    "reading": "あびる",
+    "meanings": [
+      "목욕하다",
+      "샤워하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "朝シャワーを浴びます。",
+      "ko": "아침에 샤워를 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 78,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-危ない-あぶない",
+    "kanji": "危ない",
+    "reading": "あぶない",
+    "meanings": [
+      "위험하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この道は危ないです。",
+      "ko": "이 길은 위험합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 79,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-甘い-あまい",
+    "kanji": "甘い",
+    "reading": "あまい",
+    "meanings": [
+      "달다",
+      "무르다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このケーキは甘いです。",
+      "ko": "이 케이크는 달콤합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 80,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-余り-あまり",
+    "kanji": "余り",
+    "reading": "あまり",
+    "meanings": [
+      "별로",
+      "너무"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "今日は余り忙しくないです。",
+      "ko": "오늘은 별로 바쁘지 않습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 81,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-飴-あめ",
+    "kanji": "飴",
+    "reading": "あめ",
+    "meanings": [
+      "사탕"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "子供は飴が好きです。",
+      "ko": "아이는 사탕을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 82,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-洗う-あらう",
+    "kanji": "洗う",
+    "reading": "あらう",
+    "meanings": [
+      "씻다",
+      "빨다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "食事の前に手を洗います。",
+      "ko": "식사 전에 손을 씻습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 83,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-在る-ある",
+    "kanji": "在る",
+    "reading": "ある",
+    "meanings": [
+      "있다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "公園に池が在ります。",
+      "ko": "공원에 연못이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 84,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-有る-ある",
+    "kanji": "有る",
+    "reading": "ある",
+    "meanings": [
+      "있다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "椅子は部屋に有ります。",
+      "ko": "의자는 방에 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 85,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-歩く-あるく",
+    "kanji": "歩く",
+    "reading": "あるく",
+    "meanings": [
+      "걷다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "毎日公園を歩きます。",
+      "ko": "매일 공원을 걷습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 86,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あれ-あれ",
+    "kanji": "",
+    "reading": "あれ",
+    "meanings": [
+      "저것"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あれは私の家です。",
+      "ko": "저것은 제 집입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 87,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いいえ-いいえ",
+    "kanji": "",
+    "reading": "いいえ",
+    "meanings": [
+      "아니요"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "「学生ですか。」「いいえ、医者です。」",
+      "ko": "\"학생입니까?\" \"아니요, 의사입니다.\""
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 88,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-言う-いう",
+    "kanji": "言う",
+    "reading": "いう",
+    "meanings": [
+      "말하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "名前を言ってください。",
+      "ko": "이름을 말해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 89,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-家-いえ",
+    "kanji": "家",
+    "reading": "いえ",
+    "meanings": [
+      "집"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "家に椅子があります。",
+      "ko": "집에 의자가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 90,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いかが-いかが",
+    "kanji": "",
+    "reading": "いかが",
+    "meanings": [
+      "어떻게",
+      "어떠한지"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "お茶はいかがですか。",
+      "ko": "차 한잔 어떠세요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 91,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いくつ-いくつ",
+    "kanji": "",
+    "reading": "いくつ",
+    "meanings": [
+      "몇 개",
+      "몇 살"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "りんごはいくつありますか。",
+      "ko": "사과는 몇 개 있습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 92,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いくら-いくら",
+    "kanji": "",
+    "reading": "いくら",
+    "meanings": [
+      "얼마"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "この飴はいくらですか。",
+      "ko": "이 사탕은 얼마입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 93,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-池-いけ",
+    "kanji": "池",
+    "reading": "いけ",
+    "meanings": [
+      "연못"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園に大きい池があります。",
+      "ko": "공원에 큰 연못이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 94,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-医者-いしゃ",
+    "kanji": "医者",
+    "reading": "いしゃ",
+    "meanings": [
+      "의사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "兄は医者です。",
+      "ko": "형은 의사입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 95,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-椅子-いす",
+    "kanji": "椅子",
+    "reading": "いす",
+    "meanings": [
+      "의자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "椅子に座ってください。",
+      "ko": "의자에 앉아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 96,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-忙しい-いそがしい",
+    "kanji": "忙しい",
+    "reading": "いそがしい",
+    "meanings": [
+      "바쁘다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "姉は仕事で忙しいです。",
+      "ko": "누나는 일로 바쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 97,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-痛い-いたい",
+    "kanji": "痛い",
+    "reading": "いたい",
+    "meanings": [
+      "아프다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "頭が痛いです。",
+      "ko": "머리가 아파요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 98,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一-いち",
+    "kanji": "一",
+    "reading": "いち",
+    "meanings": [
+      "하나",
+      "일"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "今日は一時に会いましょう。",
+      "ko": "오늘 1시에 만나요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 99,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一日-いちにち",
+    "kanji": "一日",
+    "reading": "いちにち",
+    "meanings": [
+      "하루"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "一日中家にいました。",
+      "ko": "하루 종일 집에 있었어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 100,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一番-いちばん",
+    "kanji": "一番",
+    "reading": "いちばん",
+    "meanings": [
+      "가장",
+      "제일"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "この本が一番面白いです。",
+      "ko": "이 책이 가장 재미있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 101,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いつ-いつ",
+    "kanji": "",
+    "reading": "いつ",
+    "meanings": [
+      "언제"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "いつ日本へ行きますか。",
+      "ko": "언제 일본에 가요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 102,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-五日-いつか",
+    "kanji": "五日",
+    "reading": "いつか",
+    "meanings": [
+      "닷새",
+      "5일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来月の五日に会いましょう。",
+      "ko": "다음 달 5일에 만나요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 103,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一緒-いっしょ",
+    "kanji": "一緒",
+    "reading": "いっしょ",
+    "meanings": [
+      "함께",
+      "같이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "一緒に食べましょう。",
+      "ko": "같이 먹어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 104,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-五つ-いつつ",
+    "kanji": "五つ",
+    "reading": "いつつ",
+    "meanings": [
+      "다섯",
+      "다섯 개"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを五つ買いました。",
+      "ko": "사과를 다섯 개 샀어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 105,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-いつも-いつも",
+    "kanji": "",
+    "reading": "いつも",
+    "meanings": [
+      "항상",
+      "언제나"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "私はいつも七時に起きます。",
+      "ko": "저는 항상 7시에 일어나요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 106,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今-いま",
+    "kanji": "今",
+    "reading": "いま",
+    "meanings": [
+      "지금"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今何時ですか。",
+      "ko": "지금 몇 시예요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 107,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-意味-いみ",
+    "kanji": "意味",
+    "reading": "いみ",
+    "meanings": [
+      "의미",
+      "뜻"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "この言葉の意味が分かりません。",
+      "ko": "이 단어의 의미를 모르겠어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 108,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-妹-いもうと",
+    "kanji": "妹",
+    "reading": "いもうと",
+    "meanings": [
+      "여동생"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私の妹は学生です。",
+      "ko": "제 여동생은 학생이에요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 109,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-嫌-いや",
+    "kanji": "嫌",
+    "reading": "いや",
+    "meanings": [
+      "싫다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "勉強は嫌です。",
+      "ko": "공부는 싫어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 110,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-入口-いりぐち",
+    "kanji": "入口",
+    "reading": "いりぐち",
+    "meanings": [
+      "입구"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "入口はあちらです。",
+      "ko": "입구는 저쪽이에요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 111,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-居る-いる",
+    "kanji": "居る",
+    "reading": "いる",
+    "meanings": [
+      "있다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "教室に先生がいます。",
+      "ko": "교실에 선생님이 있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 112,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-要る-いる",
+    "kanji": "要る",
+    "reading": "いる",
+    "meanings": [
+      "필요하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "お金が要ります。",
+      "ko": "돈이 필요해요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 113,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-入れる-いれる",
+    "kanji": "入れる",
+    "reading": "いれる",
+    "meanings": [
+      "넣다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "かばんに本を入れます。",
+      "ko": "가방에 책을 넣어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 114,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-色-いろ",
+    "kanji": "色",
+    "reading": "いろ",
+    "meanings": [
+      "색",
+      "색깔"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この色が好きです。",
+      "ko": "이 색을 좋아해요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 115,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-色々-いろいろ",
+    "kanji": "色々",
+    "reading": "いろいろ",
+    "meanings": [
+      "여러 가지",
+      "다양하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "色々な国へ行きたいです。",
+      "ko": "여러 나라에 가고 싶어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 116,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-上-うえ",
+    "kanji": "上",
+    "reading": "うえ",
+    "meanings": [
+      "위"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "机の上に猫がいます。",
+      "ko": "책상 위에 고양이가 있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 117,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-後ろ-うしろ",
+    "kanji": "後ろ",
+    "reading": "うしろ",
+    "meanings": [
+      "뒤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私の後ろに立ってください。",
+      "ko": "제 뒤에 서 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 118,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-薄い-うすい",
+    "kanji": "薄い",
+    "reading": "うすい",
+    "meanings": [
+      "얇다",
+      "연하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このコーヒーは薄いです。",
+      "ko": "이 커피는 연해요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 119,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-歌-うた",
+    "kanji": "歌",
+    "reading": "うた",
+    "meanings": [
+      "노래"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この歌が好きです。",
+      "ko": "이 노래를 좋아해요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 120,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-歌う-うたう",
+    "kanji": "歌う",
+    "reading": "うたう",
+    "meanings": [
+      "노래하다",
+      "노래 부르다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "みんなで歌を歌いましょう。",
+      "ko": "다같이 노래를 불러요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 121,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-うち-うち",
+    "kanji": "",
+    "reading": "うち",
+    "meanings": [
+      "집",
+      "우리 집"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日はうちで休みます。",
+      "ko": "오늘은 집에서 쉬어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 122,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-生まれる-うまれる",
+    "kanji": "生まれる",
+    "reading": "うまれる",
+    "meanings": [
+      "태어나다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "私は東京で生まれました。",
+      "ko": "저는 도쿄에서 태어났습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 123,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-海-うみ",
+    "kanji": "海",
+    "reading": "うみ",
+    "meanings": [
+      "바다"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夏は海に行きたいです。",
+      "ko": "여름에는 바다에 가고 싶습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 124,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-売る-うる",
+    "kanji": "売る",
+    "reading": "うる",
+    "meanings": [
+      "팔다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "この店では野菜を売っています。",
+      "ko": "이 가게에서는 채소를 팔고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 125,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-うるさい-うるさい",
+    "kanji": "",
+    "reading": "うるさい",
+    "meanings": [
+      "시끄럽다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "隣の部屋がうるさいです。",
+      "ko": "옆방이 시끄럽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 126,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-上着-うわぎ",
+    "kanji": "上着",
+    "reading": "うわぎ",
+    "meanings": [
+      "겉옷",
+      "재킷"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "寒いので上着を着てください。",
+      "ko": "추우니까 겉옷을 입으세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 127,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-絵-え",
+    "kanji": "絵",
+    "reading": "え",
+    "meanings": [
+      "그림"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "彼女は絵を描くのが好きです。",
+      "ko": "그녀는 그림 그리는 것을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 128,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-映画-えいが",
+    "kanji": "映画",
+    "reading": "えいが",
+    "meanings": [
+      "영화"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "週末に映画を見ます。",
+      "ko": "주말에 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 129,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-映画館-えいがかん",
+    "kanji": "映画館",
+    "reading": "えいがかん",
+    "meanings": [
+      "영화관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "映画館で新しい映画を見ました。",
+      "ko": "영화관에서 새 영화를 봤습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 130,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-英語-えいご",
+    "kanji": "英語",
+    "reading": "えいご",
+    "meanings": [
+      "영어"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日英語を勉強しています。",
+      "ko": "매일 영어를 공부하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 131,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ええ-ええ",
+    "kanji": "",
+    "reading": "ええ",
+    "meanings": [
+      "네",
+      "예"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "「元気ですか。」「ええ、元気です。」",
+      "ko": "\"잘 지내세요?\" \"네, 잘 지내요.\""
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 132,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-エレベーター-エレベーター",
+    "kanji": "",
+    "reading": "エレベーター",
+    "meanings": [
+      "엘리베이터"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "エレベーターで五階に行きます。",
+      "ko": "엘리베이터로 5층에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 133,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鉛筆-えんぴつ",
+    "kanji": "鉛筆",
+    "reading": "えんぴつ",
+    "meanings": [
+      "연필"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "鉛筆で名前を書きました。",
+      "ko": "연필로 이름을 썼습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 134,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-美味しい-おいしい",
+    "kanji": "美味しい",
+    "reading": "おいしい",
+    "meanings": [
+      "맛있다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このラーメンはとても美味しいです。",
+      "ko": "이 라멘은 정말 맛있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 135,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-多い-おおい",
+    "kanji": "多い",
+    "reading": "おおい",
+    "meanings": [
+      "많다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この公園は人が多いです。",
+      "ko": "이 공원은 사람이 많습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 136,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大きな-おおきな",
+    "kanji": "大きな",
+    "reading": "おおきな",
+    "meanings": [
+      "큰"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "駅の前に大きな木があります。",
+      "ko": "역 앞에 큰 나무가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 137,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大勢-おおぜい",
+    "kanji": "大勢",
+    "reading": "おおぜい",
+    "meanings": [
+      "많은 사람",
+      "대勢"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "パーティーに大勢の人が来ました。",
+      "ko": "파티에 많은 사람이 왔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 138,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お母さん-おかあさん",
+    "kanji": "お母さん",
+    "reading": "おかあさん",
+    "meanings": [
+      "어머니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お母さんは料理が上手です。",
+      "ko": "어머니는 요리를 잘하십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 139,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お菓子-おかし",
+    "kanji": "お菓子",
+    "reading": "おかし",
+    "meanings": [
+      "과자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "子供たちはお菓子が好きです。",
+      "ko": "아이들은 과자를 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 140,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-置く-おく",
+    "kanji": "置く",
+    "reading": "おく",
+    "meanings": [
+      "놓다",
+      "두다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "本をテーブルの上に置きました。",
+      "ko": "책을 테이블 위에 놓았습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 141,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-奥さん-おくさん",
+    "kanji": "奥さん",
+    "reading": "おくさん",
+    "meanings": [
+      "부인",
+      "사모님"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "田中さんの奥さんはとても親切です。",
+      "ko": "다나카 씨의 부인은 아주 친절합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 142,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お酒-おさけ",
+    "kanji": "お酒",
+    "reading": "おさけ",
+    "meanings": [
+      "술"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父はお酒が好きです。",
+      "ko": "아버지는 술을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 143,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お皿-おさら",
+    "kanji": "お皿",
+    "reading": "おさら",
+    "meanings": [
+      "접시"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お皿を洗ってください。",
+      "ko": "접시를 씻어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 144,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-おじいさん-おじいさん",
+    "kanji": "",
+    "reading": "おじいさん",
+    "meanings": [
+      "할아버지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "おじいさんは毎朝散歩します。",
+      "ko": "할아버지는 매일 아침 산책하십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 145,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-教える-おしえる",
+    "kanji": "教える",
+    "reading": "おしえる",
+    "meanings": [
+      "가르치다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "先生が日本語を教えています。",
+      "ko": "선생님이 일본어를 가르치고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 146,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-押す-おす",
+    "kanji": "押す",
+    "reading": "おす",
+    "meanings": [
+      "누르다",
+      "밀다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ボタンを押してください。",
+      "ko": "버튼을 눌러 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 147,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-遅い-おそい",
+    "kanji": "遅い",
+    "reading": "おそい",
+    "meanings": [
+      "느리다",
+      "늦다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "電車が遅いです。",
+      "ko": "전철이 늦습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 148,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お茶-おちゃ",
+    "kanji": "お茶",
+    "reading": "おちゃ",
+    "meanings": [
+      "차",
+      "녹차"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝お茶を飲みます。",
+      "ko": "매일 아침 차를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 149,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お手洗い-おてあらい",
+    "kanji": "お手洗い",
+    "reading": "おてあらい",
+    "meanings": [
+      "화장실"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お手洗いはどこですか。",
+      "ko": "화장실은 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 150,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お父さん-おとうさん",
+    "kanji": "お父さん",
+    "reading": "おとうさん",
+    "meanings": [
+      "아버지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お父さんは会社員です。",
+      "ko": "아버지는 회사원입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 151,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-弟-おとうと",
+    "kanji": "弟",
+    "reading": "おとうと",
+    "meanings": [
+      "남동생"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "弟は学生です。",
+      "ko": "남동생은 학생입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 152,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-男-おとこ",
+    "kanji": "男",
+    "reading": "おとこ",
+    "meanings": [
+      "남자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの男は先生です。",
+      "ko": "저 남자는 선생님입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 153,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-男の子-おとこのこ",
+    "kanji": "男の子",
+    "reading": "おとこのこ",
+    "meanings": [
+      "남자아이",
+      "소년"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "男の子が公園で遊んでいます。",
+      "ko": "남자아이가 공원에서 놀고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 154,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一昨日-おととい",
+    "kanji": "一昨日",
+    "reading": "おととい",
+    "meanings": [
+      "그저께"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "一昨日、映画を見ました。",
+      "ko": "그저께 영화를 봤습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 155,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-おととし-おととし",
+    "kanji": "",
+    "reading": "おととし",
+    "meanings": [
+      "재작년"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "おととし日本へ行きました。",
+      "ko": "재작년에 일본에 갔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 156,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大人-おとな",
+    "kanji": "大人",
+    "reading": "おとな",
+    "meanings": [
+      "어른",
+      "성인"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "大人は二人です。",
+      "ko": "어른은 두 명입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 157,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お腹-おなか",
+    "kanji": "お腹",
+    "reading": "おなか",
+    "meanings": [
+      "배",
+      "복부"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お腹が痛いです。",
+      "ko": "배가 아픕니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 158,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-同じ-おなじ",
+    "kanji": "同じ",
+    "reading": "おなじ",
+    "meanings": [
+      "같다",
+      "동일하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "私も同じ意見です。",
+      "ko": "저도 같은 의견입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 159,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お兄さん-おにいさん",
+    "kanji": "お兄さん",
+    "reading": "おにいさん",
+    "meanings": [
+      "형",
+      "오빠"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お兄さんは何歳ですか。",
+      "ko": "형은 몇 살입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 160,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お姉さん-おねえさん",
+    "kanji": "お姉さん",
+    "reading": "おねえさん",
+    "meanings": [
+      "누나",
+      "언니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お姉さんはとても優しいです。",
+      "ko": "누나는 매우 친절합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 161,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-おばあさん-おばあさん",
+    "kanji": "",
+    "reading": "おばあさん",
+    "meanings": [
+      "할머니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "おばあさんは元気です。",
+      "ko": "할머니는 건강합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 162,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お風呂-おふろ",
+    "kanji": "お風呂",
+    "reading": "おふろ",
+    "meanings": [
+      "목욕",
+      "욕조"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎晩お風呂に入ります。",
+      "ko": "매일 밤 목욕을 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 163,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-お弁当-おべんとう",
+    "kanji": "お弁当",
+    "reading": "おべんとう",
+    "meanings": [
+      "도시락"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お弁当を作りました。",
+      "ko": "도시락을 만들었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 164,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-覚える-おぼえる",
+    "kanji": "覚える",
+    "reading": "おぼえる",
+    "meanings": [
+      "외우다",
+      "기억하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "新しい言葉を覚えます。",
+      "ko": "새 단어를 외웁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 165,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-おまわりさん-おまわりさん",
+    "kanji": "",
+    "reading": "おまわりさん",
+    "meanings": [
+      "경찰관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "おまわりさんに道を聞きました。",
+      "ko": "경찰관에게 길을 물었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 166,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-重い-おもい",
+    "kanji": "重い",
+    "reading": "おもい",
+    "meanings": [
+      "무겁다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このかばんは重いです。",
+      "ko": "이 가방은 무겁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 167,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-面白い-おもしろい",
+    "kanji": "面白い",
+    "reading": "おもしろい",
+    "meanings": [
+      "재미있다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この本は面白いです。",
+      "ko": "이 책은 재미있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 168,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-泳ぐ-およぐ",
+    "kanji": "泳ぐ",
+    "reading": "およぐ",
+    "meanings": [
+      "수영하다",
+      "헤엄치다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "海で泳ぎます。",
+      "ko": "바다에서 수영합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 169,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-降りる-おりる",
+    "kanji": "降りる",
+    "reading": "おりる",
+    "meanings": [
+      "내리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "次の駅で降ります。",
+      "ko": "다음 역에서 내립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 170,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-終る-おわる",
+    "kanji": "終る",
+    "reading": "おわる",
+    "meanings": [
+      "끝나다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "授業は三時に終ります。",
+      "ko": "수업은 3시에 끝납니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 171,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-音楽-おんがく",
+    "kanji": "音楽",
+    "reading": "おんがく",
+    "meanings": [
+      "음악"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "音楽を聞くのが好きです。",
+      "ko": "음악을 듣는 것을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 172,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
