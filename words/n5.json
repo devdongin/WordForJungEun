@@ -1276,5 +1276,24 @@
     ],
     "rank": 70,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-あっち-あっち",
+    "kanji": "",
+    "reading": "あっち",
+    "meanings": [
+      "저쪽",
+      "저기"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あっちに大きい山が見えます。",
+      "ko": "저쪽에 큰 산이 보입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 71,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
