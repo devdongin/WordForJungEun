@@ -1,0 +1,49 @@
+name: 단어 수집
+
+on:
+  workflow_dispatch:
+    inputs:
+      count:
+        description: 가져올 단어 수
+        default: "20"
+  schedule:
+    - cron: "0 21 * * 0" # 매주 월요일 오전 6시 (한국 시간)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: words-update
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: SDK 설치
+        run: pip install anthropic
+
+      - name: 단어 수집
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COUNT: ${{ github.event.inputs.count || '20' }}
+        run: python scripts/collect_words.py --count "$COUNT"
+
+      - name: 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add words
+          if git diff --cached --quiet; then
+            echo "바뀐 단어 파일이 없습니다."
+            exit 0
+          fi
+          git commit -m "N5 단어 자동 수집"
+          git pull --rebase
+          git push

@@ -230,5 +230,12 @@ WordForJungeun/
 ## 13. 진행 상황
 - 1단계 완료 (2026-09-17): `app/단어장.html`, `words/index.json`, `words/n5.json` 샘플 50개, `words/custom.json`.
   - 단어 동기화, 상태 구분(새 단어/학습 중/복습/보류), 단어장 검색과 필터, 직접 추가와 붙여넣기, "이미 앎", 백업.
-  - 상태 전환 규칙은 3단계에서 퀴즈와 함께 구현.
+- 퀴즈 완료 (2026-09-17): 한→일 객관식, 일→한 객관식, 뜻 쓰기(오타 자동 인정, 내 답도 맞음), 새 단어 카드,
+  학습 중 → 복습 전환, 복습 간격 1/3/7/14/30/60일, 복습 연속 2회 오답 시 학습 중으로, 결과 화면, 틀린 단어 다시 풀기(연습), 연속 학습 일수.
+- 단어 수집 Action (2026-09-17): `.github/workflows/collect-words.yml` + `scripts/collect_words.py`.
+  - 출처: open-anki-jlpt-decks N5 목록 (MIT). 저장소에 없는 단어를 목록 순서대로 가져옴.
+  - Claude API(claude-opus-5)로 한국어 뜻, 품사, 예문 생성. 저장소 Secret `ANTHROPIC_API_KEY` 필요. 없으면 후보만 요약에 보여줌.
+  - 수동 실행(가져올 개수 입력) + 매주 월요일 오전 6시 자동 실행.
+- HTML에서 GitHub 등록 (2026-09-17): 설정에 Fine-grained 토큰(이 저장소 Contents 읽기/쓰기) 저장 시,
+  단어 추가 화면에서 `words/custom.json` 에 바로 등록하고 `index.json` 버전을 올림. 토큰은 브라우저에만 저장, 백업 제외.
 - 로컬 확인: `python -m http.server 8765` 후 `http://localhost:8765/app/단어장.html` (이때는 로컬 `words/` 를 읽음).
