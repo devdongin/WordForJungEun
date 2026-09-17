@@ -1,0 +1,913 @@
+[
+  {
+    "id": "jp-私-わたし",
+    "kanji": "私",
+    "reading": "わたし",
+    "meanings": [
+      "나",
+      "저"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "私は会社員です。",
+      "ko": "저는 회사원입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 1,
+    "source": "sample"
+  },
+  {
+    "id": "jp-学生-がくせい",
+    "kanji": "学生",
+    "reading": "がくせい",
+    "meanings": [
+      "학생"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの人は学生です。",
+      "ko": "저 사람은 학생입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 2,
+    "source": "sample"
+  },
+  {
+    "id": "jp-先生-せんせい",
+    "kanji": "先生",
+    "reading": "せんせい",
+    "meanings": [
+      "선생님"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "田中先生は優しいです。",
+      "ko": "다나카 선생님은 상냥합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 3,
+    "source": "sample"
+  },
+  {
+    "id": "jp-友達-ともだち",
+    "kanji": "友達",
+    "reading": "ともだち",
+    "meanings": [
+      "친구"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "友達と映画を見ます。",
+      "ko": "친구와 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 4,
+    "source": "sample"
+  },
+  {
+    "id": "jp-家族-かぞく",
+    "kanji": "家族",
+    "reading": "かぞく",
+    "meanings": [
+      "가족"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "家族は四人です。",
+      "ko": "가족은 네 명입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 5,
+    "source": "sample"
+  },
+  {
+    "id": "jp-名前-なまえ",
+    "kanji": "名前",
+    "reading": "なまえ",
+    "meanings": [
+      "이름"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お名前は何ですか。",
+      "ko": "이름이 무엇입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 6,
+    "source": "sample"
+  },
+  {
+    "id": "jp-水-みず",
+    "kanji": "水",
+    "reading": "みず",
+    "meanings": [
+      "물"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "水を飲みます。",
+      "ko": "물을 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 7,
+    "source": "sample"
+  },
+  {
+    "id": "jp-ご飯-ごはん",
+    "kanji": "ご飯",
+    "reading": "ごはん",
+    "meanings": [
+      "밥",
+      "식사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "一緒にご飯を食べましょう。",
+      "ko": "같이 밥 먹읍시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 8,
+    "source": "sample"
+  },
+  {
+    "id": "jp-食べる-たべる",
+    "kanji": "食べる",
+    "reading": "たべる",
+    "meanings": [
+      "먹다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "朝ご飯を食べます。",
+      "ko": "아침밥을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 9,
+    "source": "sample"
+  },
+  {
+    "id": "jp-飲む-のむ",
+    "kanji": "飲む",
+    "reading": "のむ",
+    "meanings": [
+      "마시다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "コーヒーを飲みます。",
+      "ko": "커피를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 10,
+    "source": "sample"
+  },
+  {
+    "id": "jp-行く-いく",
+    "kanji": "行く",
+    "reading": "いく",
+    "meanings": [
+      "가다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "学校へ行きます。",
+      "ko": "학교에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 11,
+    "source": "sample"
+  },
+  {
+    "id": "jp-来る-くる",
+    "kanji": "来る",
+    "reading": "くる",
+    "meanings": [
+      "오다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達が家に来ます。",
+      "ko": "친구가 집에 옵니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 12,
+    "source": "sample"
+  },
+  {
+    "id": "jp-見る-みる",
+    "kanji": "見る",
+    "reading": "みる",
+    "meanings": [
+      "보다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "テレビを見ます。",
+      "ko": "텔레비전을 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 13,
+    "source": "sample"
+  },
+  {
+    "id": "jp-聞く-きく",
+    "kanji": "聞く",
+    "reading": "きく",
+    "meanings": [
+      "듣다",
+      "묻다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "音楽を聞きます。",
+      "ko": "음악을 듣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 14,
+    "source": "sample"
+  },
+  {
+    "id": "jp-読む-よむ",
+    "kanji": "読む",
+    "reading": "よむ",
+    "meanings": [
+      "읽다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "本を読みます。",
+      "ko": "책을 읽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 15,
+    "source": "sample"
+  },
+  {
+    "id": "jp-書く-かく",
+    "kanji": "書く",
+    "reading": "かく",
+    "meanings": [
+      "쓰다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "手紙を書きます。",
+      "ko": "편지를 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 16,
+    "source": "sample"
+  },
+  {
+    "id": "jp-買う-かう",
+    "kanji": "買う",
+    "reading": "かう",
+    "meanings": [
+      "사다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "パンを買います。",
+      "ko": "빵을 삽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 17,
+    "source": "sample"
+  },
+  {
+    "id": "jp-話す-はなす",
+    "kanji": "話す",
+    "reading": "はなす",
+    "meanings": [
+      "말하다",
+      "이야기하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "日本語で話します。",
+      "ko": "일본어로 이야기합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 18,
+    "source": "sample"
+  },
+  {
+    "id": "jp-起きる-おきる",
+    "kanji": "起きる",
+    "reading": "おきる",
+    "meanings": [
+      "일어나다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "毎朝六時に起きます。",
+      "ko": "매일 아침 여섯 시에 일어납니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 19,
+    "source": "sample"
+  },
+  {
+    "id": "jp-寝る-ねる",
+    "kanji": "寝る",
+    "reading": "ねる",
+    "meanings": [
+      "자다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "夜十一時に寝ます。",
+      "ko": "밤 열한 시에 잡니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 20,
+    "source": "sample"
+  },
+  {
+    "id": "jp-勉強-べんきょう",
+    "kanji": "勉強",
+    "reading": "べんきょう",
+    "meanings": [
+      "공부",
+      "학습"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "毎日日本語を勉強します。",
+      "ko": "매일 일본어를 공부합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 21,
+    "source": "sample"
+  },
+  {
+    "id": "jp-本-ほん",
+    "kanji": "本",
+    "reading": "ほん",
+    "meanings": [
+      "책"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この本は面白いです。",
+      "ko": "이 책은 재미있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 22,
+    "source": "sample"
+  },
+  {
+    "id": "jp-学校-がっこう",
+    "kanji": "学校",
+    "reading": "がっこう",
+    "meanings": [
+      "학교"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "学校は駅の近くです。",
+      "ko": "학교는 역 근처입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 23,
+    "source": "sample"
+  },
+  {
+    "id": "jp-駅-えき",
+    "kanji": "駅",
+    "reading": "えき",
+    "meanings": [
+      "역"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "駅はどこですか。",
+      "ko": "역은 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 24,
+    "source": "sample"
+  },
+  {
+    "id": "jp-電車-でんしゃ",
+    "kanji": "電車",
+    "reading": "でんしゃ",
+    "meanings": [
+      "전철",
+      "기차"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "電車で会社へ行きます。",
+      "ko": "전철로 회사에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 25,
+    "source": "sample"
+  },
+  {
+    "id": "jp-会社-かいしゃ",
+    "kanji": "会社",
+    "reading": "かいしゃ",
+    "meanings": [
+      "회사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "会社は九時からです。",
+      "ko": "회사는 아홉 시부터입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 26,
+    "source": "sample"
+  },
+  {
+    "id": "jp-時間-じかん",
+    "kanji": "時間",
+    "reading": "じかん",
+    "meanings": [
+      "시간"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日は時間がありません。",
+      "ko": "오늘은 시간이 없습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 27,
+    "source": "sample"
+  },
+  {
+    "id": "jp-今日-きょう",
+    "kanji": "今日",
+    "reading": "きょう",
+    "meanings": [
+      "오늘"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日は暑いです。",
+      "ko": "오늘은 덥습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 28,
+    "source": "sample"
+  },
+  {
+    "id": "jp-明日-あした",
+    "kanji": "明日",
+    "reading": "あした",
+    "meanings": [
+      "내일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明日また来ます。",
+      "ko": "내일 또 오겠습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 29,
+    "source": "sample"
+  },
+  {
+    "id": "jp-昨日-きのう",
+    "kanji": "昨日",
+    "reading": "きのう",
+    "meanings": [
+      "어제"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昨日は雨でした。",
+      "ko": "어제는 비가 왔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 30,
+    "source": "sample"
+  },
+  {
+    "id": "jp-朝-あさ",
+    "kanji": "朝",
+    "reading": "あさ",
+    "meanings": [
+      "아침"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "朝は忙しいです。",
+      "ko": "아침은 바쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 31,
+    "source": "sample"
+  },
+  {
+    "id": "jp-夜-よる",
+    "kanji": "夜",
+    "reading": "よる",
+    "meanings": [
+      "밤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夜は静かです。",
+      "ko": "밤은 조용합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 32,
+    "source": "sample"
+  },
+  {
+    "id": "jp-天気-てんき",
+    "kanji": "天気",
+    "reading": "てんき",
+    "meanings": [
+      "날씨"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日はいい天気ですね。",
+      "ko": "오늘은 날씨가 좋네요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 33,
+    "source": "sample"
+  },
+  {
+    "id": "jp-雨-あめ",
+    "kanji": "雨",
+    "reading": "あめ",
+    "meanings": [
+      "비"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "雨が降っています。",
+      "ko": "비가 내리고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 34,
+    "source": "sample"
+  },
+  {
+    "id": "jp-大きい-おおきい",
+    "kanji": "大きい",
+    "reading": "おおきい",
+    "meanings": [
+      "크다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "大きい犬がいます。",
+      "ko": "큰 개가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 35,
+    "source": "sample"
+  },
+  {
+    "id": "jp-小さい-ちいさい",
+    "kanji": "小さい",
+    "reading": "ちいさい",
+    "meanings": [
+      "작다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この靴は小さいです。",
+      "ko": "이 신발은 작습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 36,
+    "source": "sample"
+  },
+  {
+    "id": "jp-新しい-あたらしい",
+    "kanji": "新しい",
+    "reading": "あたらしい",
+    "meanings": [
+      "새롭다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "新しいかばんを買いました。",
+      "ko": "새 가방을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 37,
+    "source": "sample"
+  },
+  {
+    "id": "jp-古い-ふるい",
+    "kanji": "古い",
+    "reading": "ふるい",
+    "meanings": [
+      "오래되다",
+      "낡다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この建物は古いです。",
+      "ko": "이 건물은 오래되었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 38,
+    "source": "sample"
+  },
+  {
+    "id": "jp-高い-たかい",
+    "kanji": "高い",
+    "reading": "たかい",
+    "meanings": [
+      "비싸다",
+      "높다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このカメラは高いです。",
+      "ko": "이 카메라는 비쌉니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 39,
+    "source": "sample"
+  },
+  {
+    "id": "jp-安い-やすい",
+    "kanji": "安い",
+    "reading": "やすい",
+    "meanings": [
+      "싸다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この店は安いです。",
+      "ko": "이 가게는 쌉니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 40,
+    "source": "sample"
+  },
+  {
+    "id": "jp-暑い-あつい",
+    "kanji": "暑い",
+    "reading": "あつい",
+    "meanings": [
+      "덥다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "夏は暑いです。",
+      "ko": "여름은 덥습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 41,
+    "source": "sample"
+  },
+  {
+    "id": "jp-寒い-さむい",
+    "kanji": "寒い",
+    "reading": "さむい",
+    "meanings": [
+      "춥다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "冬は寒いです。",
+      "ko": "겨울은 춥습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 42,
+    "source": "sample"
+  },
+  {
+    "id": "jp-好き-すき",
+    "kanji": "好き",
+    "reading": "すき",
+    "meanings": [
+      "좋아함",
+      "좋아하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "猫が好きです。",
+      "ko": "고양이를 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 43,
+    "source": "sample"
+  },
+  {
+    "id": "jp-静か-しずか",
+    "kanji": "静か",
+    "reading": "しずか",
+    "meanings": [
+      "조용함",
+      "조용하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "この部屋は静かです。",
+      "ko": "이 방은 조용합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 44,
+    "source": "sample"
+  },
+  {
+    "id": "jp-元気-げんき",
+    "kanji": "元気",
+    "reading": "げんき",
+    "meanings": [
+      "건강함",
+      "활기참"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "お元気ですか。",
+      "ko": "잘 지내십니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 45,
+    "source": "sample"
+  },
+  {
+    "id": "jp-犬-いぬ",
+    "kanji": "犬",
+    "reading": "いぬ",
+    "meanings": [
+      "개"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "犬と散歩します。",
+      "ko": "개와 산책합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 46,
+    "source": "sample"
+  },
+  {
+    "id": "jp-猫-ねこ",
+    "kanji": "猫",
+    "reading": "ねこ",
+    "meanings": [
+      "고양이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "猫が寝ています。",
+      "ko": "고양이가 자고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 47,
+    "source": "sample"
+  },
+  {
+    "id": "jp-店-みせ",
+    "kanji": "店",
+    "reading": "みせ",
+    "meanings": [
+      "가게"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの店は有名です。",
+      "ko": "저 가게는 유명합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 48,
+    "source": "sample"
+  },
+  {
+    "id": "jp-部屋-へや",
+    "kanji": "部屋",
+    "reading": "へや",
+    "meanings": [
+      "방"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "部屋を掃除します。",
+      "ko": "방을 청소합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 49,
+    "source": "sample"
+  },
+  {
+    "id": "jp-お金-おかね",
+    "kanji": "お金",
+    "reading": "おかね",
+    "meanings": [
+      "돈"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "お金がありません。",
+      "ko": "돈이 없습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 50,
+    "source": "sample"
+  }
+]
