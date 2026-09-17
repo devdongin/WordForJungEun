@@ -182,7 +182,7 @@ PLAN.md                    기획안
 
 GitHub Action이 공개 N5 단어 목록에서 아직 없는 단어를 가져와, Claude로 한국어 뜻과 품사와 예문을 만들어 `words/n5.json`에 추가합니다.
 
-- **자동 실행**: 매주 월요일 오전 6시(한국 시간)에 20개씩 추가합니다.
+- **자동 실행**: 매일 오전 6시와 오후 6시(한국 시간)에 20개씩, 하루 40개를 추가합니다. GitHub 사정에 따라 몇 분에서 수십 분 늦게 돌 수 있습니다.
 - **수동 실행**: 저장소의 Actions → **단어 수집** → Run workflow에서 개수를 넣고 실행합니다.
 
 실행하려면 저장소 Settings → Secrets and variables → Actions의 **Repository secrets**에 아래 중 하나가 필요합니다.

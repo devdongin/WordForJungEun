@@ -7,7 +7,9 @@ on:
         description: 가져올 단어 수
         default: "20"
   schedule:
-    - cron: "0 21 * * 0" # 매주 월요일 오전 6시 (한국 시간)
+    # GitHub 예약 실행은 UTC 기준. 한국 시간 = UTC + 9시간
+    - cron: "0 21 * * *" # 매일 오전 6시 (한국 시간)
+    - cron: "0 9 * * *"  # 매일 오후 6시 (한국 시간)
 
 permissions:
   contents: write
