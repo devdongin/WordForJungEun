@@ -3524,5 +3524,371 @@
     ],
     "rank": 192,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-家庭-かてい",
+    "kanji": "家庭",
+    "reading": "かてい",
+    "meanings": [
+      "가정",
+      "가족"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私の家庭は とても にぎやかです。",
+      "ko": "저희 가정은 아주 시끌벅적합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 193,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-角-かど",
+    "kanji": "角",
+    "reading": "かど",
+    "meanings": [
+      "모서리",
+      "구석"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "机の角に 気を つけて ください。",
+      "ko": "책상 모서리를 조심하세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 194,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-かばん-かばん",
+    "kanji": "",
+    "reading": "かばん",
+    "meanings": [
+      "가방"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "かばんの 中に 本が あります。",
+      "ko": "가방 안에 책이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 195,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-花瓶-かびん",
+    "kanji": "花瓶",
+    "reading": "かびん",
+    "meanings": [
+      "꽃병"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "花瓶に 花を 入れました。",
+      "ko": "꽃병에 꽃을 넣었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 196,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-かぶる-かぶる",
+    "kanji": "",
+    "reading": "かぶる",
+    "meanings": [
+      "쓰다",
+      "(모자 등을) 착용하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "外に 出る 前に 帽子を かぶります。",
+      "ko": "밖에 나가기 전에 모자를 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 197,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-紙-かみ",
+    "kanji": "紙",
+    "reading": "かみ",
+    "meanings": [
+      "종이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この 紙に 名前を 書いて ください。",
+      "ko": "이 종이에 이름을 써 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 198,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-カメラ-カメラ",
+    "kanji": "",
+    "reading": "カメラ",
+    "meanings": [
+      "카메라"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新しい カメラを 買いました。",
+      "ko": "새 카메라를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 199,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-火曜日-かようび",
+    "kanji": "火曜日",
+    "reading": "かようび",
+    "meanings": [
+      "화요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "火曜日に 病院へ 行きます。",
+      "ko": "화요일에 병원에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 200,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-辛い-からい",
+    "kanji": "辛い",
+    "reading": "からい",
+    "meanings": [
+      "맵다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このカレーは とても 辛いです。",
+      "ko": "이 카레는 아주 맵습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 201,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-体-からだ",
+    "kanji": "体",
+    "reading": "からだ",
+    "meanings": [
+      "몸",
+      "신체"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日 運動して 体を 強く します。",
+      "ko": "매일 운동해서 몸을 튼튼하게 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 202,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-借りる-かりる",
+    "kanji": "借りる",
+    "reading": "かりる",
+    "meanings": [
+      "빌리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "図書館で 本を 借ります。",
+      "ko": "도서관에서 책을 빌립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 203,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-軽い-かるい",
+    "kanji": "軽い",
+    "reading": "かるい",
+    "meanings": [
+      "가볍다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この かばんは 軽いです。",
+      "ko": "이 가방은 가볍습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 204,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-カレー-カレー",
+    "kanji": "",
+    "reading": "カレー",
+    "meanings": [
+      "카레"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昼ごはんに カレーを 食べました。",
+      "ko": "점심으로 카레를 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 205,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-カレンダー-カレンダー",
+    "kanji": "",
+    "reading": "カレンダー",
+    "meanings": [
+      "달력"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "カレンダーに 予定を 書きます。",
+      "ko": "달력에 일정을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 206,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-可愛い-かわいい",
+    "kanji": "可愛い",
+    "reading": "かわいい",
+    "meanings": [
+      "귀엽다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この 猫は とても 可愛いです。",
+      "ko": "이 고양이는 아주 귀엽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 207,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-漢字-かんじ",
+    "kanji": "漢字",
+    "reading": "かんじ",
+    "meanings": [
+      "한자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日本語の 漢字は 難しいです。",
+      "ko": "일본어 한자는 어렵습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 208,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-木-き",
+    "kanji": "木",
+    "reading": "き",
+    "meanings": [
+      "나무"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園に 大きい 木が あります。",
+      "ko": "공원에 큰 나무가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 209,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-黄色-きいろ",
+    "kanji": "黄色",
+    "reading": "きいろ",
+    "meanings": [
+      "노란색",
+      "노랑"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "黄色が 好きです。",
+      "ko": "노란색을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 210,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-黄色い-きいろい",
+    "kanji": "黄色い",
+    "reading": "きいろい",
+    "meanings": [
+      "노랗다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "バナナは 黄色いです。",
+      "ko": "바나나는 노랗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 211,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-消える-きえる",
+    "kanji": "消える",
+    "reading": "きえる",
+    "meanings": [
+      "사라지다",
+      "꺼지다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "電気が 消えました。",
+      "ko": "불이 꺼졌습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 212,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
