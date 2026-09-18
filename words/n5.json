@@ -3890,5 +3890,374 @@
     ],
     "rank": 212,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-北-きた",
+    "kanji": "北",
+    "reading": "きた",
+    "meanings": [
+      "북쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "駅は北にあります。",
+      "ko": "역은 북쪽에 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 213,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ギター-ギター",
+    "kanji": "",
+    "reading": "ギター",
+    "meanings": [
+      "기타"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私はギターを弾きます。",
+      "ko": "저는 기타를 칩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 214,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-汚い-きたない",
+    "kanji": "汚い",
+    "reading": "きたない",
+    "meanings": [
+      "더럽다",
+      "지저분하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "部屋が汚いです。",
+      "ko": "방이 더럽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 215,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-喫茶店-きっさてん",
+    "kanji": "喫茶店",
+    "reading": "きっさてん",
+    "meanings": [
+      "찻집",
+      "카페"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "喫茶店でコーヒーを飲みます。",
+      "ko": "찻집에서 커피를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 216,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-切手-きって",
+    "kanji": "切手",
+    "reading": "きって",
+    "meanings": [
+      "우표"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "郵便局で切手を買います。",
+      "ko": "우체국에서 우표를 삽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 217,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-切符-きっぷ",
+    "kanji": "切符",
+    "reading": "きっぷ",
+    "meanings": [
+      "표",
+      "티켓"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "駅で切符を買いました。",
+      "ko": "역에서 표를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 218,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-九-きゅう",
+    "kanji": "九",
+    "reading": "きゅう",
+    "meanings": [
+      "아홉",
+      "구"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを九個ください。",
+      "ko": "사과를 아홉 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 219,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-牛肉-ぎゅうにく",
+    "kanji": "牛肉",
+    "reading": "ぎゅうにく",
+    "meanings": [
+      "소고기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "牛肉は好きですか。",
+      "ko": "소고기를 좋아합니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 220,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-牛乳-ぎゅうにゅう",
+    "kanji": "牛乳",
+    "reading": "ぎゅうにゅう",
+    "meanings": [
+      "우유"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝牛乳を飲みます。",
+      "ko": "매일 아침 우유를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 221,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-教室-きょうしつ",
+    "kanji": "教室",
+    "reading": "きょうしつ",
+    "meanings": [
+      "교실"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "教室に学生がいます。",
+      "ko": "교실에 학생이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 222,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-兄弟-きょうだい",
+    "kanji": "兄弟",
+    "reading": "きょうだい",
+    "meanings": [
+      "형제",
+      "형제자매"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私は兄弟が三人います。",
+      "ko": "저는 형제가 세 명 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 223,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-去年-きょねん",
+    "kanji": "去年",
+    "reading": "きょねん",
+    "meanings": [
+      "작년"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "去年日本へ行きました。",
+      "ko": "작년에 일본에 갔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 224,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-嫌い-きらい",
+    "kanji": "嫌い",
+    "reading": "きらい",
+    "meanings": [
+      "싫어하다",
+      "싫음"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "野菜が嫌いです。",
+      "ko": "채소를 싫어합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 225,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-切る-きる",
+    "kanji": "切る",
+    "reading": "きる",
+    "meanings": [
+      "자르다",
+      "끊다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "紙をはさみで切ります。",
+      "ko": "가위로 종이를 자릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 226,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-着る-きる",
+    "kanji": "着る",
+    "reading": "きる",
+    "meanings": [
+      "입다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "新しい服を着ます。",
+      "ko": "새 옷을 입습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 227,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-綺麗-きれい",
+    "kanji": "綺麗",
+    "reading": "きれい",
+    "meanings": [
+      "예쁘다",
+      "깨끗하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "公園はとても綺麗です。",
+      "ko": "공원은 매우 깨끗합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 228,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-銀行-ぎんこう",
+    "kanji": "銀行",
+    "reading": "ぎんこう",
+    "meanings": [
+      "은행"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "銀行でお金を出します。",
+      "ko": "은행에서 돈을 찾습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 229,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-金曜日-きんようび",
+    "kanji": "金曜日",
+    "reading": "きんようび",
+    "meanings": [
+      "금요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "金曜日に映画を見ます。",
+      "ko": "금요일에 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 230,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-九-く",
+    "kanji": "九",
+    "reading": "く",
+    "meanings": [
+      "아홉",
+      "구"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "今九時です。",
+      "ko": "지금 아홉 시입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 231,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-薬-くすり",
+    "kanji": "薬",
+    "reading": "くすり",
+    "meanings": [
+      "약"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "薬を飲んでください。",
+      "ko": "약을 드세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 232,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
