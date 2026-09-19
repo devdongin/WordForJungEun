@@ -4259,5 +4259,373 @@
     ],
     "rank": 232,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-下さい-ください",
+    "kanji": "下さい",
+    "reading": "ください",
+    "meanings": [
+      "주세요"
+    ],
+    "pos": "표현",
+    "example": {
+      "jp": "すみません、水を下さい。",
+      "ko": "저기요, 물 좀 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 233,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-果物-くだもの",
+    "kanji": "果物",
+    "reading": "くだもの",
+    "meanings": [
+      "과일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "果物が好きです。",
+      "ko": "과일을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 234,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-口-くち",
+    "kanji": "口",
+    "reading": "くち",
+    "meanings": [
+      "입",
+      "일자리"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "口を大きく開けてください。",
+      "ko": "입을 크게 벌려 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 235,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-靴-くつ",
+    "kanji": "靴",
+    "reading": "くつ",
+    "meanings": [
+      "신발",
+      "구두"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新しい靴を買いました。",
+      "ko": "새 신발을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 236,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-靴下-くつした",
+    "kanji": "靴下",
+    "reading": "くつした",
+    "meanings": [
+      "양말"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "靴下をはいてください。",
+      "ko": "양말을 신어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 237,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-国-くに",
+    "kanji": "国",
+    "reading": "くに",
+    "meanings": [
+      "나라",
+      "고향"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あなたの国はどこですか。",
+      "ko": "당신의 나라는 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 238,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-曇り-くもり",
+    "kanji": "曇り",
+    "reading": "くもり",
+    "meanings": [
+      "흐림"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明日は曇りです。",
+      "ko": "내일은 흐립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 239,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-曇る-くもる",
+    "kanji": "曇る",
+    "reading": "くもる",
+    "meanings": [
+      "흐려지다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "空が曇ってきました。",
+      "ko": "하늘이 흐려졌습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 240,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-暗い-くらい",
+    "kanji": "暗い",
+    "reading": "くらい",
+    "meanings": [
+      "어둡다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "部屋が暗いです。",
+      "ko": "방이 어둡습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 241,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-クラス-クラス",
+    "kanji": "",
+    "reading": "クラス",
+    "meanings": [
+      "클래스",
+      "반"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私のクラスは楽しいです。",
+      "ko": "우리 반은 즐겁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 242,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-グラム-グラム",
+    "kanji": "",
+    "reading": "グラム",
+    "meanings": [
+      "그램"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "砂糖を100グラムください。",
+      "ko": "설탕 100그램 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 243,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-車-くるま",
+    "kanji": "車",
+    "reading": "くるま",
+    "meanings": [
+      "자동차"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "車で会社へ行きます。",
+      "ko": "자동차로 회사에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 244,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-黒-くろ",
+    "kanji": "黒",
+    "reading": "くろ",
+    "meanings": [
+      "검정",
+      "검은색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "黒が好きです。",
+      "ko": "검정색을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 245,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-黒い-くろい",
+    "kanji": "黒い",
+    "reading": "くろい",
+    "meanings": [
+      "검다",
+      "까맣다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "黒い靴を買いました。",
+      "ko": "검은 신발을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 246,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-警官-けいかん",
+    "kanji": "警官",
+    "reading": "けいかん",
+    "meanings": [
+      "경찰관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "警官に道を聞きました。",
+      "ko": "경찰관에게 길을 물었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 247,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今朝-けさ",
+    "kanji": "今朝",
+    "reading": "けさ",
+    "meanings": [
+      "오늘 아침"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今朝、パンを食べました。",
+      "ko": "오늘 아침에 빵을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 248,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-消す-けす",
+    "kanji": "消す",
+    "reading": "けす",
+    "meanings": [
+      "끄다",
+      "지우다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "電気を消してください。",
+      "ko": "불을 꺼 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 249,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-結構-けっこう",
+    "kanji": "結構",
+    "reading": "けっこう",
+    "meanings": [
+      "훌륭하다",
+      "충분하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "もう結構です。",
+      "ko": "이제 됐습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 250,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-結婚-けっこん (する)",
+    "kanji": "結婚",
+    "reading": "けっこん (する)",
+    "meanings": [
+      "결혼"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "来年、結婚します。",
+      "ko": "내년에 결혼합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 251,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-月曜日-げつようび",
+    "kanji": "月曜日",
+    "reading": "げつようび",
+    "meanings": [
+      "월요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "月曜日に学校へ行きます。",
+      "ko": "월요일에 학교에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 252,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
