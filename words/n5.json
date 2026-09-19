@@ -4627,5 +4627,373 @@
     ],
     "rank": 252,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-玄関-げんかん",
+    "kanji": "玄関",
+    "reading": "げんかん",
+    "meanings": [
+      "현관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "玄関で靴を脱ぎます。",
+      "ko": "현관에서 신발을 벗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 253,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-五-ご",
+    "kanji": "五",
+    "reading": "ご",
+    "meanings": [
+      "오",
+      "다섯"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "五時に会いましょう。",
+      "ko": "다섯 시에 만납시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 254,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-公園-こうえん",
+    "kanji": "公園",
+    "reading": "こうえん",
+    "meanings": [
+      "공원"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園で遊びます。",
+      "ko": "공원에서 놉니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 255,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-交差点-こうさてん",
+    "kanji": "交差点",
+    "reading": "こうさてん",
+    "meanings": [
+      "교차로"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "交差点を右に曲がってください。",
+      "ko": "교차로에서 오른쪽으로 도세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 256,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-紅茶-こうちゃ",
+    "kanji": "紅茶",
+    "reading": "こうちゃ",
+    "meanings": [
+      "홍차"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "紅茶を飲みます。",
+      "ko": "홍차를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 257,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-交番-こうばん",
+    "kanji": "交番",
+    "reading": "こうばん",
+    "meanings": [
+      "파출소"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "交番で道を聞きました。",
+      "ko": "파출소에서 길을 물었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 258,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-声-こえ",
+    "kanji": "声",
+    "reading": "こえ",
+    "meanings": [
+      "목소리"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "大きい声で話してください。",
+      "ko": "큰 목소리로 말해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 259,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-コート-コート",
+    "kanji": "",
+    "reading": "コート",
+    "meanings": [
+      "코트(외투)",
+      "코트(경기장)"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "寒いのでコートを着ます。",
+      "ko": "추워서 코트를 입습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 260,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-コーヒー-コーヒー",
+    "kanji": "",
+    "reading": "コーヒー",
+    "meanings": [
+      "커피"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝コーヒーを飲みます。",
+      "ko": "매일 아침 커피를 마십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 261,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ここ-ここ",
+    "kanji": "",
+    "reading": "ここ",
+    "meanings": [
+      "여기"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "ここに座ってください。",
+      "ko": "여기에 앉아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 262,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-午後-ごご",
+    "kanji": "午後",
+    "reading": "ごご",
+    "meanings": [
+      "오후"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "午後三時に来てください。",
+      "ko": "오후 세 시에 와 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 263,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-九日-ここのか",
+    "kanji": "九日",
+    "reading": "ここのか",
+    "meanings": [
+      "9일",
+      "아흐레"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今月の九日に誕生日です。",
+      "ko": "이번 달 9일이 생일입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 264,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-九つ-ここのつ",
+    "kanji": "九つ",
+    "reading": "ここのつ",
+    "meanings": [
+      "아홉 개",
+      "아홉 살"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "りんごが九つあります。",
+      "ko": "사과가 아홉 개 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 265,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-午前-ごぜん",
+    "kanji": "午前",
+    "reading": "ごぜん",
+    "meanings": [
+      "오전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "午前中に勉強します。",
+      "ko": "오전 중에 공부합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 266,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-答える-こたえる",
+    "kanji": "答える",
+    "reading": "こたえる",
+    "meanings": [
+      "대답하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "質問に答えてください。",
+      "ko": "질문에 대답해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 267,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-こちら-こちら",
+    "kanji": "",
+    "reading": "こちら",
+    "meanings": [
+      "이쪽",
+      "이분"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "こちらは田中さんです。",
+      "ko": "이쪽은 다나카 씨입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 268,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-こっち-こっち",
+    "kanji": "",
+    "reading": "こっち",
+    "meanings": [
+      "이쪽"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "こっちに来てください。",
+      "ko": "이쪽으로 와 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 269,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-コップ-コップ",
+    "kanji": "",
+    "reading": "コップ",
+    "meanings": [
+      "컵",
+      "유리컵"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "コップに水を入れます。",
+      "ko": "컵에 물을 넣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 270,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今年-ことし",
+    "kanji": "今年",
+    "reading": "ことし",
+    "meanings": [
+      "올해"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今年二十歳になります。",
+      "ko": "올해 스무 살이 됩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 271,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-言葉-ことば",
+    "kanji": "言葉",
+    "reading": "ことば",
+    "meanings": [
+      "말",
+      "언어",
+      "단어"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日本語の言葉を勉強します。",
+      "ko": "일본어 단어를 공부합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 272,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
