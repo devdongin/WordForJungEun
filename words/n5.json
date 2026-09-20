@@ -5363,5 +5363,373 @@
     ],
     "rank": 292,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-三-さん",
+    "kanji": "三",
+    "reading": "さん",
+    "meanings": [
+      "셋",
+      "3"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを三つください。",
+      "ko": "사과를 세 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 293,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-散歩-さんぽ (する)",
+    "kanji": "散歩",
+    "reading": "さんぽ (する)",
+    "meanings": [
+      "산책"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "毎朝、公園を散歩します。",
+      "ko": "매일 아침 공원을 산책합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 294,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-四-し",
+    "kanji": "四",
+    "reading": "し",
+    "meanings": [
+      "넷",
+      "4"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "四時に会いましょう。",
+      "ko": "4시에 만납시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 295,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-塩-しお",
+    "kanji": "塩",
+    "reading": "しお",
+    "meanings": [
+      "소금"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "塩を少し入れてください。",
+      "ko": "소금을 조금 넣어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 296,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-しかし-しかし",
+    "kanji": "",
+    "reading": "しかし",
+    "meanings": [
+      "그러나",
+      "하지만"
+    ],
+    "pos": "접속사",
+    "example": {
+      "jp": "雨が降っています。しかし、出かけます。",
+      "ko": "비가 오고 있습니다. 하지만 외출합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 297,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-仕事-しごと",
+    "kanji": "仕事",
+    "reading": "しごと",
+    "meanings": [
+      "일",
+      "직업"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父の仕事は先生です。",
+      "ko": "아버지의 직업은 선생님입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 298,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-辞書-じしょ",
+    "kanji": "辞書",
+    "reading": "じしょ",
+    "meanings": [
+      "사전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "辞書で言葉の意味を調べます。",
+      "ko": "사전으로 단어의 뜻을 찾습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 299,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-下-した",
+    "kanji": "下",
+    "reading": "した",
+    "meanings": [
+      "아래",
+      "밑"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "猫は机の下にいます。",
+      "ko": "고양이는 책상 아래에 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 300,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-七-しち",
+    "kanji": "七",
+    "reading": "しち",
+    "meanings": [
+      "일곱",
+      "7"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "七時に起きます。",
+      "ko": "7시에 일어납니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 301,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-質問-しつもん",
+    "kanji": "質問",
+    "reading": "しつもん",
+    "meanings": [
+      "질문"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "先生に質問します。",
+      "ko": "선생님께 질문합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 302,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-自転車-じてんしゃ",
+    "kanji": "自転車",
+    "reading": "じてんしゃ",
+    "meanings": [
+      "자전거"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "自転車で学校に行きます。",
+      "ko": "자전거로 학교에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 303,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-自動車-じどうしゃ",
+    "kanji": "自動車",
+    "reading": "じどうしゃ",
+    "meanings": [
+      "자동차"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "自動車で旅行に行きます。",
+      "ko": "자동차로 여행을 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 304,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-死ぬ-しぬ",
+    "kanji": "死ぬ",
+    "reading": "しぬ",
+    "meanings": [
+      "죽다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "祖父は去年死にました。",
+      "ko": "할아버지는 작년에 돌아가셨습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 305,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-字引-じびき",
+    "kanji": "字引",
+    "reading": "じびき",
+    "meanings": [
+      "사전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "字引で漢字を調べます。",
+      "ko": "사전으로 한자를 찾습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 306,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-自分-じぶん",
+    "kanji": "自分",
+    "reading": "じぶん",
+    "meanings": [
+      "자신",
+      "자기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "自分の部屋を掃除します。",
+      "ko": "자신의 방을 청소합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 307,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-閉まる-しまる",
+    "kanji": "閉まる",
+    "reading": "しまる",
+    "meanings": [
+      "닫히다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ドアが自然に閉まりました。",
+      "ko": "문이 저절로 닫혔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 308,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-閉める-しめる",
+    "kanji": "閉める",
+    "reading": "しめる",
+    "meanings": [
+      "닫다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "窓を閉めてください。",
+      "ko": "창문을 닫아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 309,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-締める-しめる",
+    "kanji": "締める",
+    "reading": "しめる",
+    "meanings": [
+      "매다",
+      "조이다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ネクタイを締めます。",
+      "ko": "넥타이를 맵니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 310,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-写真-しゃしん",
+    "kanji": "写真",
+    "reading": "しゃしん",
+    "meanings": [
+      "사진"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "家族の写真を撮ります。",
+      "ko": "가족 사진을 찍습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 311,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-シャツ-シャツ",
+    "kanji": "",
+    "reading": "シャツ",
+    "meanings": [
+      "셔츠"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "白いシャツを着ています。",
+      "ko": "흰색 셔츠를 입고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 312,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
