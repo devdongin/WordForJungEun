@@ -4995,5 +4995,373 @@
     ],
     "rank": 272,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-子供-こども",
+    "kanji": "子供",
+    "reading": "こども",
+    "meanings": [
+      "아이",
+      "어린이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "子供がこうえんであそんでいます。",
+      "ko": "아이가 공원에서 놀고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 273,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-この-この",
+    "kanji": "",
+    "reading": "この",
+    "meanings": [
+      "이"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "このほんはとてもおもしろいです。",
+      "ko": "이 책은 매우 재미있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 274,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-御飯-ごはん",
+    "kanji": "御飯",
+    "reading": "ごはん",
+    "meanings": [
+      "밥",
+      "식사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "朝ごはんを食べました。",
+      "ko": "아침밥을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 275,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-コピーする-コピーする",
+    "kanji": "",
+    "reading": "コピーする",
+    "meanings": [
+      "복사하다"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "この書類をコピーしてください。",
+      "ko": "이 서류를 복사해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 276,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-困る-こまる",
+    "kanji": "困る",
+    "reading": "こまる",
+    "meanings": [
+      "곤란하다",
+      "난처하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "お金がなくて困っています。",
+      "ko": "돈이 없어서 곤란합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 277,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-これ-これ",
+    "kanji": "",
+    "reading": "これ",
+    "meanings": [
+      "이것"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "これはわたしのかばんです。",
+      "ko": "이것은 제 가방입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 278,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今月-こんげつ",
+    "kanji": "今月",
+    "reading": "こんげつ",
+    "meanings": [
+      "이번 달"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今月はとてもいそがしいです。",
+      "ko": "이번 달은 매우 바쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 279,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今週-こんしゅう",
+    "kanji": "今週",
+    "reading": "こんしゅう",
+    "meanings": [
+      "이번 주"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今週の土曜日にえいがを見ます。",
+      "ko": "이번 주 토요일에 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 280,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-こんな-こんな",
+    "kanji": "",
+    "reading": "こんな",
+    "meanings": [
+      "이런"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "こんな天気は好きじゃありません。",
+      "ko": "이런 날씨는 좋아하지 않습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 281,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-今晩-こんばん",
+    "kanji": "今晩",
+    "reading": "こんばん",
+    "meanings": [
+      "오늘 밤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今晩、友達と晩ごはんを食べます。",
+      "ko": "오늘 밤 친구와 저녁을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 282,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-さあ-さあ",
+    "kanji": "",
+    "reading": "さあ",
+    "meanings": [
+      "자",
+      "글쎄"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "さあ、行きましょう。",
+      "ko": "자, 갑시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 283,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-財布-さいふ",
+    "kanji": "財布",
+    "reading": "さいふ",
+    "meanings": [
+      "지갑"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "財布をなくしてしまいました。",
+      "ko": "지갑을 잃어버리고 말았습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 284,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-魚-さかな",
+    "kanji": "魚",
+    "reading": "さかな",
+    "meanings": [
+      "물고기",
+      "생선"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "魚をたくさん食べました。",
+      "ko": "생선을 많이 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 285,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-先-さき",
+    "kanji": "先",
+    "reading": "さき",
+    "meanings": [
+      "먼저",
+      "앞",
+      "이전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "先に家へ帰ります。",
+      "ko": "먼저 집에 돌아갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 286,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-咲く-さく",
+    "kanji": "咲く",
+    "reading": "さく",
+    "meanings": [
+      "피다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "春に花が咲きます。",
+      "ko": "봄에 꽃이 핍니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 287,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-作文-さくぶん",
+    "kanji": "作文",
+    "reading": "さくぶん",
+    "meanings": [
+      "작문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "学校で作文を書きました。",
+      "ko": "학교에서 작문을 썼습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 288,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-差す-さす",
+    "kanji": "差す",
+    "reading": "さす",
+    "meanings": [
+      "쓰다",
+      "내밀다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "雨がふっているのでかさを差します。",
+      "ko": "비가 내리고 있어서 우산을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 289,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-雑誌-ざっし",
+    "kanji": "雑誌",
+    "reading": "ざっし",
+    "meanings": [
+      "잡지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "図書館で雑誌を読みます。",
+      "ko": "도서관에서 잡지를 읽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 290,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-砂糖-さとう",
+    "kanji": "砂糖",
+    "reading": "さとう",
+    "meanings": [
+      "설탕"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "コーヒーに砂糖を入れます。",
+      "ko": "커피에 설탕을 넣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 291,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-さ来年-さらいねん",
+    "kanji": "さ来年",
+    "reading": "さらいねん",
+    "meanings": [
+      "내후년"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "さ来年、日本へ行きたいです。",
+      "ko": "내후년에 일본에 가고 싶습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 292,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
