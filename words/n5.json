@@ -5731,5 +5731,376 @@
     ],
     "rank": 312,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-シャワー-シャワー",
+    "kanji": "",
+    "reading": "シャワー",
+    "meanings": [
+      "샤워"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "シャワーを浴びます。",
+      "ko": "샤워를 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 313,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-十-じゅう",
+    "kanji": "十",
+    "reading": "じゅう",
+    "meanings": [
+      "열",
+      "십"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "私は十歳です。",
+      "ko": "저는 열 살입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 314,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-授業-じゅぎょう",
+    "kanji": "授業",
+    "reading": "じゅぎょう",
+    "meanings": [
+      "수업"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "授業は九時に始まります。",
+      "ko": "수업은 9시에 시작합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 315,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-宿題-しゅくだい",
+    "kanji": "宿題",
+    "reading": "しゅくだい",
+    "meanings": [
+      "숙제"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "宿題をしました。",
+      "ko": "숙제를 했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 316,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-上手-じょうず",
+    "kanji": "上手",
+    "reading": "じょうず",
+    "meanings": [
+      "잘하다",
+      "능숙하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "彼はテニスが上手です。",
+      "ko": "그는 테니스를 잘합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 317,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-丈夫-じょうぶ",
+    "kanji": "丈夫",
+    "reading": "じょうぶ",
+    "meanings": [
+      "튼튼하다",
+      "견고하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "このかばんは丈夫です。",
+      "ko": "이 가방은 튼튼합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 318,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-醤油-しょうゆ",
+    "kanji": "醤油",
+    "reading": "しょうゆ",
+    "meanings": [
+      "간장"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "醤油をください。",
+      "ko": "간장을 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 319,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-食堂-しょくどう",
+    "kanji": "食堂",
+    "reading": "しょくどう",
+    "meanings": [
+      "식당"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "食堂でご飯を食べます。",
+      "ko": "식당에서 밥을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 320,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-知る-しる",
+    "kanji": "知る",
+    "reading": "しる",
+    "meanings": [
+      "알다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "彼の名前を知っています。",
+      "ko": "그의 이름을 알고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 321,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-白-しろ",
+    "kanji": "白",
+    "reading": "しろ",
+    "meanings": [
+      "흰색",
+      "백색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "白が好きです。",
+      "ko": "흰색을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 322,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-白い-しろい",
+    "kanji": "白い",
+    "reading": "しろい",
+    "meanings": [
+      "하얗다",
+      "희다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この猫は白いです。",
+      "ko": "이 고양이는 하얗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 323,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-新聞-しんぶん",
+    "kanji": "新聞",
+    "reading": "しんぶん",
+    "meanings": [
+      "신문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新聞を読みます。",
+      "ko": "신문을 읽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 324,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-水曜日-すいようび",
+    "kanji": "水曜日",
+    "reading": "すいようび",
+    "meanings": [
+      "수요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "水曜日に会いましょう。",
+      "ko": "수요일에 만납시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 325,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-吸う-すう",
+    "kanji": "吸う",
+    "reading": "すう",
+    "meanings": [
+      "들이쉬다",
+      "빨아들이다",
+      "피우다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "大きく息を吸ってください。",
+      "ko": "크게 숨을 들이쉬세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 326,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-スカート-スカート",
+    "kanji": "",
+    "reading": "スカート",
+    "meanings": [
+      "치마",
+      "스커트"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新しいスカートを買いました。",
+      "ko": "새 치마를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 327,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-少ない-すくない",
+    "kanji": "少ない",
+    "reading": "すくない",
+    "meanings": [
+      "적다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "時間が少ないです。",
+      "ko": "시간이 적습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 328,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-すぐに-すぐに",
+    "kanji": "",
+    "reading": "すぐに",
+    "meanings": [
+      "곧",
+      "바로",
+      "즉시"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "すぐに来てください。",
+      "ko": "곧 와 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 329,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-少し-すこし",
+    "kanji": "少し",
+    "reading": "すこし",
+    "meanings": [
+      "조금"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "少し休みましょう。",
+      "ko": "조금 쉽시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 330,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-涼しい-すずしい",
+    "kanji": "涼しい",
+    "reading": "すずしい",
+    "meanings": [
+      "시원하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "今日は涼しいです。",
+      "ko": "오늘은 시원합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 331,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ストーブ-ストーブ",
+    "kanji": "",
+    "reading": "ストーブ",
+    "meanings": [
+      "난로",
+      "스토브"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ストーブをつけました。",
+      "ko": "난로를 켰습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 332,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
