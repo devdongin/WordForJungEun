@@ -6102,5 +6102,373 @@
     ],
     "rank": 332,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-スプーン-スプーン",
+    "kanji": "",
+    "reading": "スプーン",
+    "meanings": [
+      "숟가락"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "スプーンでスープを飲みます。",
+      "ko": "숟가락으로 수프를 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 333,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-スポーツ-スポーツ",
+    "kanji": "",
+    "reading": "スポーツ",
+    "meanings": [
+      "스포츠",
+      "운동"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "わたしはスポーツが好きです。",
+      "ko": "저는 스포츠를 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 334,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ズボン-ズボン",
+    "kanji": "",
+    "reading": "ズボン",
+    "meanings": [
+      "바지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新しいズボンを買いました。",
+      "ko": "새 바지를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 335,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-住む-すむ",
+    "kanji": "住む",
+    "reading": "すむ",
+    "meanings": [
+      "살다",
+      "거주하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "わたしは東京に住んでいます。",
+      "ko": "저는 도쿄에 살고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 336,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-する-する",
+    "kanji": "",
+    "reading": "する",
+    "meanings": [
+      "하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "毎朝、運動をします。",
+      "ko": "매일 아침 운동을 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 337,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-座る-すわる",
+    "kanji": "座る",
+    "reading": "すわる",
+    "meanings": [
+      "앉다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "いすに座ってください。",
+      "ko": "의자에 앉으세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 338,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-背-せい",
+    "kanji": "背",
+    "reading": "せい",
+    "meanings": [
+      "키",
+      "신장"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "兄は背が高いです。",
+      "ko": "형은 키가 큽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 339,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-生徒-せいと",
+    "kanji": "生徒",
+    "reading": "せいと",
+    "meanings": [
+      "학생"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この学校には生徒が多いです。",
+      "ko": "이 학교에는 학생이 많습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 340,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-セーター-セーター",
+    "kanji": "",
+    "reading": "セーター",
+    "meanings": [
+      "스웨터"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "寒いのでセーターを着ます。",
+      "ko": "추워서 스웨터를 입습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 341,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-石鹸-せっけん",
+    "kanji": "石鹸",
+    "reading": "せっけん",
+    "meanings": [
+      "비누"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "石鹸で手を洗います。",
+      "ko": "비누로 손을 씻습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 342,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-背広-せびろ",
+    "kanji": "背広",
+    "reading": "せびろ",
+    "meanings": [
+      "신사복",
+      "양복"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父は背広を着て会社に行きます。",
+      "ko": "아버지는 양복을 입고 회사에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 343,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-狭い-せまい",
+    "kanji": "狭い",
+    "reading": "せまい",
+    "meanings": [
+      "좁다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この部屋は狭いです。",
+      "ko": "이 방은 좁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 344,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ゼロ-ゼロ",
+    "kanji": "",
+    "reading": "ゼロ",
+    "meanings": [
+      "영",
+      "제로"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "点数はゼロでした。",
+      "ko": "점수는 제로였습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 345,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-千-せん",
+    "kanji": "千",
+    "reading": "せん",
+    "meanings": [
+      "천"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "このかばんは千円です。",
+      "ko": "이 가방은 천 엔입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 346,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-先月-せんげつ",
+    "kanji": "先月",
+    "reading": "せんげつ",
+    "meanings": [
+      "지난달"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "先月、日本へ行きました。",
+      "ko": "지난달에 일본에 갔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 347,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-先週-せんしゅう",
+    "kanji": "先週",
+    "reading": "せんしゅう",
+    "meanings": [
+      "지난주"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "先週は忙しかったです。",
+      "ko": "지난주는 바빴습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 348,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-洗濯-せんたく",
+    "kanji": "洗濯",
+    "reading": "せんたく",
+    "meanings": [
+      "빨래",
+      "세탁"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "日曜日に洗濯をします。",
+      "ko": "일요일에 빨래를 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 349,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-全部-ぜんぶ",
+    "kanji": "全部",
+    "reading": "ぜんぶ",
+    "meanings": [
+      "전부",
+      "모두"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "料理を全部食べました。",
+      "ko": "요리를 전부 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 350,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-掃除-そうじ (する)",
+    "kanji": "掃除",
+    "reading": "そうじ (する)",
+    "meanings": [
+      "청소"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "毎朝、部屋を掃除します。",
+      "ko": "매일 아침 방을 청소합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 351,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-そこ-そこ",
+    "kanji": "",
+    "reading": "そこ",
+    "meanings": [
+      "거기",
+      "그곳"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "そこにかばんがあります。",
+      "ko": "거기에 가방이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 352,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
