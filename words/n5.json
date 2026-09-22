@@ -6842,5 +6842,371 @@
     ],
     "rank": 372,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-たて-たて",
+    "kanji": "",
+    "reading": "たて",
+    "meanings": [
+      "세로",
+      "높이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この箱のたては十センチです。",
+      "ko": "이 상자의 세로는 10센티미터입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 373,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-建物-たてもの",
+    "kanji": "建物",
+    "reading": "たてもの",
+    "meanings": [
+      "건물"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの建物は病院です。",
+      "ko": "저 건물은 병원입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 374,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-楽しい-たのしい",
+    "kanji": "楽しい",
+    "reading": "たのしい",
+    "meanings": [
+      "즐겁다",
+      "재미있다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "今日はとても楽しいです。",
+      "ko": "오늘은 매우 즐겁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 375,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-頼む-たのむ",
+    "kanji": "頼む",
+    "reading": "たのむ",
+    "meanings": [
+      "부탁하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達に手伝ってくれるように頼みました。",
+      "ko": "친구에게 도와달라고 부탁했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 376,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-たばこ-たばこ",
+    "kanji": "",
+    "reading": "たばこ",
+    "meanings": [
+      "담배"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ここでたばこを吸わないでください。",
+      "ko": "여기서 담배를 피우지 마세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 377,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-多分-たぶん",
+    "kanji": "多分",
+    "reading": "たぶん",
+    "meanings": [
+      "아마",
+      "아마도"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "多分明日は雨でしょう。",
+      "ko": "아마 내일은 비가 올 것입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 378,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-食べ物-たべもの",
+    "kanji": "食べ物",
+    "reading": "たべもの",
+    "meanings": [
+      "음식"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "好きな食べ物は何ですか。",
+      "ko": "좋아하는 음식은 무엇입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 379,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-卵-たまご",
+    "kanji": "卵",
+    "reading": "たまご",
+    "meanings": [
+      "달걀",
+      "계란"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "朝ご飯に卵を食べました。",
+      "ko": "아침밥으로 달걀을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 380,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-誰-だれ",
+    "kanji": "誰",
+    "reading": "だれ",
+    "meanings": [
+      "누구"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あの人は誰ですか。",
+      "ko": "저 사람은 누구입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 381,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-誰か-だれか",
+    "kanji": "誰か",
+    "reading": "だれか",
+    "meanings": [
+      "누군가"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "誰か窓を閉めてください。",
+      "ko": "누군가 창문을 닫아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 382,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-誕生日-たんじょうび",
+    "kanji": "誕生日",
+    "reading": "たんじょうび",
+    "meanings": [
+      "생일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明日は私の誕生日です。",
+      "ko": "내일은 제 생일입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 383,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-段々-だんだん",
+    "kanji": "段々",
+    "reading": "だんだん",
+    "meanings": [
+      "점점",
+      "점차"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "段々寒くなってきました。",
+      "ko": "점점 추워지고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 384,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-小さな-ちいさな",
+    "kanji": "小さな",
+    "reading": "ちいさな",
+    "meanings": [
+      "작은"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "小さな犬を飼っています。",
+      "ko": "작은 개를 기르고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 385,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-近い-ちかい",
+    "kanji": "近い",
+    "reading": "ちかい",
+    "meanings": [
+      "가깝다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "駅から近い所に住んでいます。",
+      "ko": "역에서 가까운 곳에 살고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 386,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-違う-ちがう",
+    "kanji": "違う",
+    "reading": "ちがう",
+    "meanings": [
+      "다르다",
+      "틀리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "あなたの意見は私と違います。",
+      "ko": "당신의 의견은 저와 다릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 387,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-近く-ちかく",
+    "kanji": "近く",
+    "reading": "ちかく",
+    "meanings": [
+      "근처"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "家の近くに公園があります。",
+      "ko": "집 근처에 공원이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 388,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-地下鉄-ちかてつ",
+    "kanji": "地下鉄",
+    "reading": "ちかてつ",
+    "meanings": [
+      "지하철"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "地下鉄で会社へ行きます。",
+      "ko": "지하철로 회사에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 389,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-地図-ちず",
+    "kanji": "地図",
+    "reading": "ちず",
+    "meanings": [
+      "지도"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "地図を見ながら歩きました。",
+      "ko": "지도를 보면서 걸었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 390,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-父-ちち",
+    "kanji": "父",
+    "reading": "ちち",
+    "meanings": [
+      "아버지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父は会社員です。",
+      "ko": "아버지는 회사원입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 391,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-茶色-ちゃいろ",
+    "kanji": "茶色",
+    "reading": "ちゃいろ",
+    "meanings": [
+      "갈색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "茶色のかばんを買いました。",
+      "ko": "갈색 가방을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 392,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
