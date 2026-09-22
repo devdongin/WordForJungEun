@@ -6470,5 +6470,377 @@
     ],
     "rank": 352,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-そちら-そちら",
+    "kanji": "",
+    "reading": "そちら",
+    "meanings": [
+      "그쪽",
+      "저쪽"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "そちらは山田さんです。",
+      "ko": "그쪽은 야마다 씨입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 353,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-そっち-そっち",
+    "kanji": "",
+    "reading": "そっち",
+    "meanings": [
+      "그쪽",
+      "저쪽"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "そっちに行きます。",
+      "ko": "그쪽으로 갈게요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 354,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-外-そと",
+    "kanji": "外",
+    "reading": "そと",
+    "meanings": [
+      "밖",
+      "바깥"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "外は寒いです。",
+      "ko": "밖은 춥습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 355,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-その-その",
+    "kanji": "",
+    "reading": "その",
+    "meanings": [
+      "그"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "その本は面白いです。",
+      "ko": "그 책은 재미있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 356,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-そば-そば",
+    "kanji": "",
+    "reading": "そば",
+    "meanings": [
+      "근처",
+      "옆"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "学校のそばに公園があります。",
+      "ko": "학교 근처에 공원이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 357,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-空-そら",
+    "kanji": "空",
+    "reading": "そら",
+    "meanings": [
+      "하늘"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "空が青いです。",
+      "ko": "하늘이 파랗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 358,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-それ-それ",
+    "kanji": "",
+    "reading": "それ",
+    "meanings": [
+      "그것"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "それは私の傘です。",
+      "ko": "그것은 제 우산입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 359,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-それから-それから",
+    "kanji": "",
+    "reading": "それから",
+    "meanings": [
+      "그리고",
+      "그 다음에"
+    ],
+    "pos": "접속사",
+    "example": {
+      "jp": "宿題をします。それから寝ます。",
+      "ko": "숙제를 합니다. 그리고 잡니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 360,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-それでは-それでは",
+    "kanji": "",
+    "reading": "それでは",
+    "meanings": [
+      "그러면",
+      "그럼"
+    ],
+    "pos": "접속사",
+    "example": {
+      "jp": "それでは、また明日。",
+      "ko": "그럼, 내일 봐요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 361,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大学-だいがく",
+    "kanji": "大学",
+    "reading": "だいがく",
+    "meanings": [
+      "대학교"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私は大学で勉強しています。",
+      "ko": "저는 대학교에서 공부하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 362,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大使館-たいしかん",
+    "kanji": "大使館",
+    "reading": "たいしかん",
+    "meanings": [
+      "대사관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "大使館はどこですか。",
+      "ko": "대사관은 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 363,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大丈夫-だいじょうぶ",
+    "kanji": "大丈夫",
+    "reading": "だいじょうぶ",
+    "meanings": [
+      "괜찮다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "大丈夫ですか。",
+      "ko": "괜찮으세요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 364,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大好き-だいすき",
+    "kanji": "大好き",
+    "reading": "だいすき",
+    "meanings": [
+      "매우 좋아하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "私はりんごが大好きです。",
+      "ko": "저는 사과를 매우 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 365,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大切-たいせつ",
+    "kanji": "大切",
+    "reading": "たいせつ",
+    "meanings": [
+      "중요하다",
+      "소중하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "家族はとても大切です。",
+      "ko": "가족은 매우 소중합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 366,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-台所-だいどころ",
+    "kanji": "台所",
+    "reading": "だいどころ",
+    "meanings": [
+      "부엌",
+      "주방"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "母は台所で料理しています。",
+      "ko": "어머니는 부엌에서 요리하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 367,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-大変-たいへん",
+    "kanji": "大変",
+    "reading": "たいへん",
+    "meanings": [
+      "힘들다",
+      "대단하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "今日は仕事が大変でした。",
+      "ko": "오늘은 일이 힘들었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 368,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-沢山-たくさん",
+    "kanji": "沢山",
+    "reading": "たくさん",
+    "meanings": [
+      "많이"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "りんごが沢山あります。",
+      "ko": "사과가 많이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 369,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-タクシー-タクシー",
+    "kanji": "",
+    "reading": "タクシー",
+    "meanings": [
+      "택시"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "タクシーで駅まで行きます。",
+      "ko": "택시로 역까지 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 370,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-出す-だす",
+    "kanji": "出す",
+    "reading": "だす",
+    "meanings": [
+      "꺼내다",
+      "내다",
+      "제출하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "手紙を出します。",
+      "ko": "편지를 보냅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 371,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-立つ-たつ",
+    "kanji": "立つ",
+    "reading": "たつ",
+    "meanings": [
+      "서다",
+      "일어서다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ここに立ってください。",
+      "ko": "여기에 서 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 372,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
