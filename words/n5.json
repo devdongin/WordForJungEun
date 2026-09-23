@@ -7579,5 +7579,375 @@
     ],
     "rank": 412,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-手紙-てがみ",
+    "kanji": "手紙",
+    "reading": "てがみ",
+    "meanings": [
+      "편지"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "友達に手紙を書きます。",
+      "ko": "친구에게 편지를 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 413,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-できる-できる",
+    "kanji": "",
+    "reading": "できる",
+    "meanings": [
+      "할 수 있다",
+      "가능하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "私は日本語ができます。",
+      "ko": "저는 일본어를 할 수 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 414,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-出口-でぐち",
+    "kanji": "出口",
+    "reading": "でぐち",
+    "meanings": [
+      "출구"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "出口はどこですか。",
+      "ko": "출구는 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 415,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-テスト-テスト",
+    "kanji": "",
+    "reading": "テスト",
+    "meanings": [
+      "시험",
+      "테스트"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明日テストがあります。",
+      "ko": "내일 시험이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 416,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-では-では",
+    "kanji": "",
+    "reading": "では",
+    "meanings": [
+      "그럼",
+      "그러면"
+    ],
+    "pos": "접속사",
+    "example": {
+      "jp": "では、始めましょう。",
+      "ko": "그럼, 시작합시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 417,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-デパート-デパート",
+    "kanji": "",
+    "reading": "デパート",
+    "meanings": [
+      "백화점"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "デパートで服を買いました。",
+      "ko": "백화점에서 옷을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 418,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-でも-でも",
+    "kanji": "",
+    "reading": "でも",
+    "meanings": [
+      "하지만",
+      "그렇지만"
+    ],
+    "pos": "접속사",
+    "example": {
+      "jp": "寒いです。でも、元気です。",
+      "ko": "춥습니다. 하지만 건강합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 419,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-出る-でる",
+    "kanji": "出る",
+    "reading": "でる",
+    "meanings": [
+      "나가다",
+      "나오다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "家を出ます。",
+      "ko": "집을 나갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 420,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-テレビ-テレビ",
+    "kanji": "",
+    "reading": "テレビ",
+    "meanings": [
+      "텔레비전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "テレビを見ます。",
+      "ko": "텔레비전을 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 421,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-電気-でんき",
+    "kanji": "電気",
+    "reading": "でんき",
+    "meanings": [
+      "전기",
+      "불"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "電気をつけてください。",
+      "ko": "전기를 켜 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 422,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-電話-でんわ",
+    "kanji": "電話",
+    "reading": "でんわ",
+    "meanings": [
+      "전화"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "電話をかけます。",
+      "ko": "전화를 겁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 423,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-戸-と",
+    "kanji": "戸",
+    "reading": "と",
+    "meanings": [
+      "문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "戸を閉めてください。",
+      "ko": "문을 닫아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 424,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ドア-ドア",
+    "kanji": "",
+    "reading": "ドア",
+    "meanings": [
+      "문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ドアを開けます。",
+      "ko": "문을 엽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 425,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-トイレ-トイレ",
+    "kanji": "",
+    "reading": "トイレ",
+    "meanings": [
+      "화장실"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "トイレはどこですか。",
+      "ko": "화장실은 어디입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 426,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どう-どう",
+    "kanji": "",
+    "reading": "どう",
+    "meanings": [
+      "어떻게"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "これはどうですか。",
+      "ko": "이것은 어떻습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 427,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どうして-どうして",
+    "kanji": "",
+    "reading": "どうして",
+    "meanings": [
+      "왜",
+      "어째서"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "どうして学校を休みましたか。",
+      "ko": "왜 학교를 쉬었습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 428,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どうぞ-どうぞ",
+    "kanji": "",
+    "reading": "どうぞ",
+    "meanings": [
+      "부디",
+      "아무쪼록"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "どうぞ、こちらへ。",
+      "ko": "부디, 이쪽으로."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 429,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-動物-どうぶつ",
+    "kanji": "動物",
+    "reading": "どうぶつ",
+    "meanings": [
+      "동물"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "動物が好きです。",
+      "ko": "동물을 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 430,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どうも-どうも",
+    "kanji": "",
+    "reading": "どうも",
+    "meanings": [
+      "정말",
+      "아무래도"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "どうもありがとうございます。",
+      "ko": "정말 감사합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 431,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-十-(〜を) とお",
+    "kanji": "十",
+    "reading": "(〜を) とお",
+    "meanings": [
+      "열",
+      "열 개"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを十買いました。",
+      "ko": "사과를 열 개 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 432,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
