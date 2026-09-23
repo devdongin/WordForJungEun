@@ -7208,5 +7208,376 @@
     ],
     "rank": 392,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-茶碗-ちゃわん",
+    "kanji": "茶碗",
+    "reading": "ちゃわん",
+    "meanings": [
+      "밥그릇",
+      "찻잔"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "茶碗にご飯を入れます。",
+      "ko": "밥그릇에 밥을 담습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 393,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-丁度-ちょうど",
+    "kanji": "丁度",
+    "reading": "ちょうど",
+    "meanings": [
+      "딱",
+      "정확히"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "今、ちょうど三時です。",
+      "ko": "지금 딱 3시입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 394,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ちょっと-ちょっと",
+    "kanji": "",
+    "reading": "ちょっと",
+    "meanings": [
+      "조금",
+      "약간"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "ちょっと待ってください。",
+      "ko": "잠깐 기다려 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 395,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一日-ついたち",
+    "kanji": "一日",
+    "reading": "ついたち",
+    "meanings": [
+      "1일",
+      "초하루"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今月の一日は月曜日です。",
+      "ko": "이번 달 1일은 월요일입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 396,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-使う-つかう",
+    "kanji": "使う",
+    "reading": "つかう",
+    "meanings": [
+      "사용하다",
+      "쓰다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "このペンを使ってもいいですか。",
+      "ko": "이 펜을 사용해도 됩니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 397,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-疲れる-つかれる",
+    "kanji": "疲れる",
+    "reading": "つかれる",
+    "meanings": [
+      "피곤하다",
+      "지치다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "今日はとても疲れました。",
+      "ko": "오늘은 매우 피곤했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 398,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-次-つぎ",
+    "kanji": "次",
+    "reading": "つぎ",
+    "meanings": [
+      "다음"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "次の駅で降ります。",
+      "ko": "다음 역에서 내립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 399,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-着く-つく",
+    "kanji": "着く",
+    "reading": "つく",
+    "meanings": [
+      "도착하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "駅に着きました。",
+      "ko": "역에 도착했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 400,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-机-つくえ",
+    "kanji": "机",
+    "reading": "つくえ",
+    "meanings": [
+      "책상"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "机の上に本があります。",
+      "ko": "책상 위에 책이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 401,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-作る-つくる",
+    "kanji": "作る",
+    "reading": "つくる",
+    "meanings": [
+      "만들다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "母が晩ご飯を作ります。",
+      "ko": "어머니가 저녁밥을 만듭니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 402,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-つける-つける",
+    "kanji": "",
+    "reading": "つける",
+    "meanings": [
+      "켜다",
+      "붙이다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "部屋の電気をつけてください。",
+      "ko": "방의 전등을 켜 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 403,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-勤める-つとめる",
+    "kanji": "勤める",
+    "reading": "つとめる",
+    "meanings": [
+      "근무하다",
+      "일하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "父は銀行に勤めています。",
+      "ko": "아버지는 은행에 근무하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 404,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-つまらない-つまらない",
+    "kanji": "",
+    "reading": "つまらない",
+    "meanings": [
+      "재미없다",
+      "지루하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この映画はつまらないです。",
+      "ko": "이 영화는 재미없습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 405,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-冷たい-つめたい",
+    "kanji": "冷たい",
+    "reading": "つめたい",
+    "meanings": [
+      "차갑다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "冷たい水を飲みました。",
+      "ko": "차가운 물을 마셨습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 406,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-強い-つよい",
+    "kanji": "強い",
+    "reading": "つよい",
+    "meanings": [
+      "강하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "彼は体が強いです。",
+      "ko": "그는 몸이 강합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 407,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-手-て",
+    "kanji": "手",
+    "reading": "て",
+    "meanings": [
+      "손"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "手を洗ってください。",
+      "ko": "손을 씻어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 408,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-テープ-テープ",
+    "kanji": "",
+    "reading": "テープ",
+    "meanings": [
+      "테이프"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "このテープを使ってください。",
+      "ko": "이 테이프를 사용해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 409,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-テープレコーダー-テープレコーダー",
+    "kanji": "",
+    "reading": "テープレコーダー",
+    "meanings": [
+      "녹음기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "テープレコーダーで音楽を聞きます。",
+      "ko": "녹음기로 음악을 듣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 410,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-テーブル-テーブル",
+    "kanji": "",
+    "reading": "テーブル",
+    "meanings": [
+      "테이블",
+      "탁자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "テーブルの上にコップがあります。",
+      "ko": "테이블 위에 컵이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 411,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-出かける-でかける",
+    "kanji": "出かける",
+    "reading": "でかける",
+    "meanings": [
+      "외출하다",
+      "나가다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "明日、友達と出かけます。",
+      "ko": "내일 친구와 외출합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 412,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
