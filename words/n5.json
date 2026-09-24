@@ -7949,5 +7949,376 @@
     ],
     "rank": 432,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-遠い-とおい",
+    "kanji": "遠い",
+    "reading": "とおい",
+    "meanings": [
+      "멀다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "学校は家から遠いです。",
+      "ko": "학교는 집에서 멀어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 433,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-十日-とおか",
+    "kanji": "十日",
+    "reading": "とおか",
+    "meanings": [
+      "열흘",
+      "10일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "十日に日本へ行きます。",
+      "ko": "10일에 일본에 가요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 434,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-時々-ときどき",
+    "kanji": "時々",
+    "reading": "ときどき",
+    "meanings": [
+      "가끔",
+      "때때로"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "時々映画を見ます。",
+      "ko": "가끔 영화를 봐요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 435,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-時計-とけい",
+    "kanji": "時計",
+    "reading": "とけい",
+    "meanings": [
+      "시계"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この時計は新しいです。",
+      "ko": "이 시계는 새것이에요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 436,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どこ-どこ",
+    "kanji": "",
+    "reading": "どこ",
+    "meanings": [
+      "어디"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "トイレはどこですか。",
+      "ko": "화장실은 어디예요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 437,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-所-ところ",
+    "kanji": "所",
+    "reading": "ところ",
+    "meanings": [
+      "곳",
+      "장소"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ここは静かな所です。",
+      "ko": "여기는 조용한 곳이에요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 438,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-年-とし",
+    "kanji": "年",
+    "reading": "とし",
+    "meanings": [
+      "나이",
+      "해"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今年で二十歳になります。",
+      "ko": "올해로 스무 살이 됩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 439,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-図書館-としょかん",
+    "kanji": "図書館",
+    "reading": "としょかん",
+    "meanings": [
+      "도서관"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日図書館で勉強します。",
+      "ko": "매일 도서관에서 공부해요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 440,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どちら-どちら",
+    "kanji": "",
+    "reading": "どちら",
+    "meanings": [
+      "어느 쪽",
+      "어디"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "お国はどちらですか。",
+      "ko": "고향이 어디세요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 441,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どっち-どっち",
+    "kanji": "",
+    "reading": "どっち",
+    "meanings": [
+      "어느 쪽"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "どっちが好きですか。",
+      "ko": "어느 쪽이 좋아요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 442,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-とても-とても",
+    "kanji": "",
+    "reading": "とても",
+    "meanings": [
+      "매우",
+      "아주"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "このケーキはとてもおいしいです。",
+      "ko": "이 케이크는 아주 맛있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 443,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どなた-どなた",
+    "kanji": "",
+    "reading": "どなた",
+    "meanings": [
+      "누구",
+      "어느 분"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "どなたですか。",
+      "ko": "누구세요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 444,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-隣-となり",
+    "kanji": "隣",
+    "reading": "となり",
+    "meanings": [
+      "옆",
+      "이웃"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "隣に座ってもいいですか。",
+      "ko": "옆에 앉아도 될까요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 445,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どの-どの",
+    "kanji": "",
+    "reading": "どの",
+    "meanings": [
+      "어느"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "どの本が面白いですか。",
+      "ko": "어느 책이 재미있어요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 446,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-飛ぶ-とぶ",
+    "kanji": "飛ぶ",
+    "reading": "とぶ",
+    "meanings": [
+      "날다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "鳥が空を飛んでいます。",
+      "ko": "새가 하늘을 날고 있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 447,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-止まる-とまる",
+    "kanji": "止まる",
+    "reading": "とまる",
+    "meanings": [
+      "멈추다",
+      "서다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "バスがここに止まります。",
+      "ko": "버스가 여기에 멈춰요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 448,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-土曜日-どようび",
+    "kanji": "土曜日",
+    "reading": "どようび",
+    "meanings": [
+      "토요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "土曜日に友達と会います。",
+      "ko": "토요일에 친구를 만나요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 449,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鳥-とり",
+    "kanji": "鳥",
+    "reading": "とり",
+    "meanings": [
+      "새",
+      "닭"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園に鳥がたくさんいます。",
+      "ko": "공원에 새가 많이 있어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 450,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鶏肉-とりにく",
+    "kanji": "鶏肉",
+    "reading": "とりにく",
+    "meanings": [
+      "닭고기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昼ご飯に鶏肉を食べました。",
+      "ko": "점심에 닭고기를 먹었어요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 451,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-取る-とる",
+    "kanji": "取る",
+    "reading": "とる",
+    "meanings": [
+      "잡다",
+      "(수업을) 듣다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "来学期、この授業を取ります。",
+      "ko": "다음 학기에 이 수업을 들을 거예요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 452,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
