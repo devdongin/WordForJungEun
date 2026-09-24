@@ -8320,5 +8320,375 @@
     ],
     "rank": 452,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-撮る-とる",
+    "kanji": "撮る",
+    "reading": "とる",
+    "meanings": [
+      "찍다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "公園で写真を撮ります。",
+      "ko": "공원에서 사진을 찍습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 453,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どれ-どれ",
+    "kanji": "",
+    "reading": "どれ",
+    "meanings": [
+      "어느 것"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "あなたのかばんはどれですか。",
+      "ko": "당신의 가방은 어느 것입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 454,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-どんな-どんな",
+    "kanji": "",
+    "reading": "どんな",
+    "meanings": [
+      "어떤"
+    ],
+    "pos": "연체사",
+    "example": {
+      "jp": "どんな music が好きですか。",
+      "ko": "어떤 음악을 좋아합니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 455,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ない-ない",
+    "kanji": "",
+    "reading": "ない",
+    "meanings": [
+      "없다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "お金がないです。",
+      "ko": "돈이 없습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 456,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ナイフ-ナイフ",
+    "kanji": "",
+    "reading": "ナイフ",
+    "meanings": [
+      "칼",
+      "나이프"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ナイフでパンを切ります。",
+      "ko": "나이프로 빵을 자릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 457,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-中-なか",
+    "kanji": "中",
+    "reading": "なか",
+    "meanings": [
+      "안",
+      "속",
+      "가운데"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "かばんの中に本があります。",
+      "ko": "가방 안에 책이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 458,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-長い-ながい",
+    "kanji": "長い",
+    "reading": "ながい",
+    "meanings": [
+      "길다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この川はとても長いです。",
+      "ko": "이 강은 매우 깁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 459,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鳴く-なく",
+    "kanji": "鳴く",
+    "reading": "なく",
+    "meanings": [
+      "울다",
+      "(동물이) 소리를 내다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "鳥が木の上で鳴いています。",
+      "ko": "새가 나무 위에서 울고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 460,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-無くす-なくす",
+    "kanji": "無くす",
+    "reading": "なくす",
+    "meanings": [
+      "잃어버리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "財布を無くしました。",
+      "ko": "지갑을 잃어버렸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 461,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-なぜ-なぜ",
+    "kanji": "",
+    "reading": "なぜ",
+    "meanings": [
+      "왜"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "なぜ学校を休みましたか。",
+      "ko": "왜 학교를 쉬었습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 462,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-夏-なつ",
+    "kanji": "夏",
+    "reading": "なつ",
+    "meanings": [
+      "여름"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日本の夏は暑いです。",
+      "ko": "일본의 여름은 덥습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 463,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-夏休み-なつやすみ",
+    "kanji": "夏休み",
+    "reading": "なつやすみ",
+    "meanings": [
+      "여름 방학",
+      "여름휴가"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夏休みに海へ行きます。",
+      "ko": "여름 방학에 바다에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 464,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-七つ-ななつ",
+    "kanji": "七つ",
+    "reading": "ななつ",
+    "meanings": [
+      "일곱 개"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを七つ買いました。",
+      "ko": "사과를 일곱 개 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 465,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-七日-なのか",
+    "kanji": "七日",
+    "reading": "なのか",
+    "meanings": [
+      "7일",
+      "이레"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来月の七日に会いましょう。",
+      "ko": "다음 달 7일에 만납시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 466,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-習う-ならう",
+    "kanji": "習う",
+    "reading": "ならう",
+    "meanings": [
+      "배우다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "学校で英語を習います。",
+      "ko": "학교에서 영어를 배웁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 467,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-並ぶ-ならぶ",
+    "kanji": "並ぶ",
+    "reading": "ならぶ",
+    "meanings": [
+      "줄을 서다",
+      "늘어서다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "バス停に人が並んでいます。",
+      "ko": "버스 정류장에 사람들이 줄을 서 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 468,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-並べる-ならべる",
+    "kanji": "並べる",
+    "reading": "ならべる",
+    "meanings": [
+      "늘어놓다",
+      "나란히 놓다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "机の上に本を並べます。",
+      "ko": "책상 위에 책을 나란히 놓습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 469,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-なる-なる",
+    "kanji": "",
+    "reading": "なる",
+    "meanings": [
+      "되다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "彼は医者になりました。",
+      "ko": "그는 의사가 되었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 470,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二-に",
+    "kanji": "二",
+    "reading": "に",
+    "meanings": [
+      "둘",
+      "2"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "猫が二匹います。",
+      "ko": "고양이가 두 마리 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 471,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-にぎやか-にぎやか",
+    "kanji": "",
+    "reading": "にぎやか",
+    "meanings": [
+      "번화하다",
+      "떠들썩하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "この町はにぎやかです。",
+      "ko": "이 마을은 번화합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 472,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
