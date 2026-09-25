@@ -9059,5 +9059,369 @@
     ],
     "rank": 492,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-箱-はこ",
+    "kanji": "箱",
+    "reading": "はこ",
+    "meanings": [
+      "상자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "箱の中にお菓子があります。",
+      "ko": "상자 안에 과자가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 493,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-橋-はし",
+    "kanji": "橋",
+    "reading": "はし",
+    "meanings": [
+      "다리"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この橋はとても長いです。",
+      "ko": "이 다리는 매우 깁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 494,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-箸-はし",
+    "kanji": "箸",
+    "reading": "はし",
+    "meanings": [
+      "젓가락"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "箸でご飯を食べます。",
+      "ko": "젓가락으로 밥을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 495,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-始まる-はじまる",
+    "kanji": "始まる",
+    "reading": "はじまる",
+    "meanings": [
+      "시작되다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "もうすぐ映画が始まります。",
+      "ko": "곧 영화가 시작됩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 496,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-初めて-はじめて",
+    "kanji": "初めて",
+    "reading": "はじめて",
+    "meanings": [
+      "처음으로"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "初めて日本へ行きました。",
+      "ko": "처음으로 일본에 갔습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 497,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-走る-はしる",
+    "kanji": "走る",
+    "reading": "はしる",
+    "meanings": [
+      "달리다",
+      "뛰다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "公園で走ります。",
+      "ko": "공원에서 달립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 498,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-バス-バス",
+    "kanji": "",
+    "reading": "バス",
+    "meanings": [
+      "버스"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "バスで学校へ行きます。",
+      "ko": "버스로 학교에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 499,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-バター-バター",
+    "kanji": "",
+    "reading": "バター",
+    "meanings": [
+      "버터"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "パンにバターを塗ります。",
+      "ko": "빵에 버터를 바릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 500,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二十歳-はたち",
+    "kanji": "二十歳",
+    "reading": "はたち",
+    "meanings": [
+      "스무 살"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "姉は二十歳です。",
+      "ko": "언니는 스무 살입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 501,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-働く-はたらく",
+    "kanji": "働く",
+    "reading": "はたらく",
+    "meanings": [
+      "일하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "父は会社で働いています。",
+      "ko": "아버지는 회사에서 일하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 502,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-八-はち",
+    "kanji": "八",
+    "reading": "はち",
+    "meanings": [
+      "여덟",
+      "팔"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを八つ買いました。",
+      "ko": "사과를 여덟 개 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 503,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二十日-はつか",
+    "kanji": "二十日",
+    "reading": "はつか",
+    "meanings": [
+      "20일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来月の二十日に旅行します。",
+      "ko": "다음 달 20일에 여행합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 504,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-花-はな",
+    "kanji": "花",
+    "reading": "はな",
+    "meanings": [
+      "꽃"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "公園に花がたくさん咲いています。",
+      "ko": "공원에 꽃이 많이 피어 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 505,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-鼻-はな",
+    "kanji": "鼻",
+    "reading": "はな",
+    "meanings": [
+      "코"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "犬は鼻がいいです。",
+      "ko": "개는 코(후각)가 좋습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 506,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-話-はなし",
+    "kanji": "話",
+    "reading": "はなし",
+    "meanings": [
+      "이야기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "友達と話をしました。",
+      "ko": "친구와 이야기를 했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 507,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-母-はは",
+    "kanji": "母",
+    "reading": "はは",
+    "meanings": [
+      "어머니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "母は料理が上手です。",
+      "ko": "어머니는 요리를 잘하십니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 508,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-早い-はやい",
+    "kanji": "早い",
+    "reading": "はやい",
+    "meanings": [
+      "이르다",
+      "빠르다(시간)"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "今朝は早く起きました。",
+      "ko": "오늘 아침은 일찍 일어났습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 509,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-速い-はやい",
+    "kanji": "速い",
+    "reading": "はやい",
+    "meanings": [
+      "빠르다(속도)"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "新幹線はとても速いです。",
+      "ko": "신칸센은 매우 빠릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 510,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-春-はる",
+    "kanji": "春",
+    "reading": "はる",
+    "meanings": [
+      "봄"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日本の春は暖かいです。",
+      "ko": "일본의 봄은 따뜻합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 511,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-貼る-はる",
+    "kanji": "貼る",
+    "reading": "はる",
+    "meanings": [
+      "붙이다",
+      "바르다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "壁にポスターを貼ります。",
+      "ko": "벽에 포스터를 붙입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 512,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
