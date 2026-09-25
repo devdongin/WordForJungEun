@@ -8690,5 +8690,374 @@
     ],
     "rank": 472,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-肉-にく",
+    "kanji": "肉",
+    "reading": "にく",
+    "meanings": [
+      "고기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "私は肉が好きです。",
+      "ko": "저는 고기를 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 473,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-西-にし",
+    "kanji": "西",
+    "reading": "にし",
+    "meanings": [
+      "서쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "太陽は西に沈みます。",
+      "ko": "태양은 서쪽으로 집니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 474,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-日曜日-にちようび",
+    "kanji": "日曜日",
+    "reading": "にちようび",
+    "meanings": [
+      "일요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日曜日に映画を見ます。",
+      "ko": "일요일에 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 475,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-荷物-にもつ",
+    "kanji": "荷物",
+    "reading": "にもつ",
+    "meanings": [
+      "짐",
+      "수하물"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "荷物が重いです。",
+      "ko": "짐이 무겁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 476,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ニュース-ニュース",
+    "kanji": "",
+    "reading": "ニュース",
+    "meanings": [
+      "뉴스"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝ニュースを見ます。",
+      "ko": "매일 아침 뉴스를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 477,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-庭-にわ",
+    "kanji": "庭",
+    "reading": "にわ",
+    "meanings": [
+      "정원",
+      "마당"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "庭に花があります。",
+      "ko": "마당에 꽃이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 478,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-脱ぐ-ぬぐ",
+    "kanji": "脱ぐ",
+    "reading": "ぬぐ",
+    "meanings": [
+      "벗다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "家に入る前に靴を脱ぎます。",
+      "ko": "집에 들어가기 전에 신발을 벗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 479,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-温い-ぬるい",
+    "kanji": "温い",
+    "reading": "ぬるい",
+    "meanings": [
+      "미지근하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "このお茶は温いです。",
+      "ko": "이 차는 미지근합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 480,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ネクタイ-ネクタイ",
+    "kanji": "",
+    "reading": "ネクタイ",
+    "meanings": [
+      "넥타이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父はネクタイをしています。",
+      "ko": "아버지는 넥타이를 매고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 481,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ノート-ノート",
+    "kanji": "",
+    "reading": "ノート",
+    "meanings": [
+      "공책",
+      "노트"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ノートに名前を書きます。",
+      "ko": "노트에 이름을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 482,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-登る-のぼる",
+    "kanji": "登る",
+    "reading": "のぼる",
+    "meanings": [
+      "오르다",
+      "등산하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "週末に山に登ります。",
+      "ko": "주말에 산에 오릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 483,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-飲み物-のみもの",
+    "kanji": "飲み物",
+    "reading": "のみもの",
+    "meanings": [
+      "음료",
+      "마실 것"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "何か飲み物をください。",
+      "ko": "뭔가 마실 것을 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 484,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-乗る-のる",
+    "kanji": "乗る",
+    "reading": "のる",
+    "meanings": [
+      "타다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "毎朝バスに乗ります。",
+      "ko": "매일 아침 버스를 탑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 485,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-歯-は",
+    "kanji": "歯",
+    "reading": "は",
+    "meanings": [
+      "이",
+      "치아"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日歯を磨きます。",
+      "ko": "매일 이를 닦습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 486,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-パーティー-パーティー",
+    "kanji": "",
+    "reading": "パーティー",
+    "meanings": [
+      "파티"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "明日パーティーがあります。",
+      "ko": "내일 파티가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 487,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-はい-はい",
+    "kanji": "",
+    "reading": "はい",
+    "meanings": [
+      "네",
+      "예"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "「学生ですか。」「はい、そうです。」",
+      "ko": "\"학생입니까?\" \"네, 그렇습니다.\""
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 488,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-灰皿-はいざら",
+    "kanji": "灰皿",
+    "reading": "はいざら",
+    "meanings": [
+      "재떨이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "灰皿はどこにありますか。",
+      "ko": "재떨이는 어디에 있습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 489,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-入る-はいる",
+    "kanji": "入る",
+    "reading": "はいる",
+    "meanings": [
+      "들어가다",
+      "들어오다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "部屋に入ってください。",
+      "ko": "방에 들어오세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 490,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-葉書-はがき",
+    "kanji": "葉書",
+    "reading": "はがき",
+    "meanings": [
+      "엽서"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "友達に葉書を書きます。",
+      "ko": "친구에게 엽서를 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 491,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-はく-はく",
+    "kanji": "",
+    "reading": "はく",
+    "meanings": [
+      "신다",
+      "입다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "靴下をはきます。",
+      "ko": "양말을 신습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 492,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
