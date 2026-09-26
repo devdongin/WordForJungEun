@@ -9423,5 +9423,376 @@
     ],
     "rank": 512,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-晴れ-はれ",
+    "kanji": "晴れ",
+    "reading": "はれ",
+    "meanings": [
+      "맑음",
+      "맑은 날씨"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日は晴れです。",
+      "ko": "오늘은 맑은 날씨입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 513,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-晴れる-はれる",
+    "kanji": "晴れる",
+    "reading": "はれる",
+    "meanings": [
+      "맑다",
+      "날이 개다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "明日は晴れるでしょう。",
+      "ko": "내일은 날씨가 갤 것입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 514,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-半-はん",
+    "kanji": "半",
+    "reading": "はん",
+    "meanings": [
+      "반",
+      "절반"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今、二時半です。",
+      "ko": "지금 두 시 반입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 515,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-晩-ばん",
+    "kanji": "晩",
+    "reading": "ばん",
+    "meanings": [
+      "저녁",
+      "밤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "晩にテレビを見ます。",
+      "ko": "저녁에 텔레비전을 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 516,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-パン-パン",
+    "kanji": "",
+    "reading": "パン",
+    "meanings": [
+      "빵"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "朝はパンを食べます。",
+      "ko": "아침에는 빵을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 517,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ハンカチ-ハンカチ",
+    "kanji": "",
+    "reading": "ハンカチ",
+    "meanings": [
+      "손수건"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ハンカチで手を拭きます。",
+      "ko": "손수건으로 손을 닦습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 518,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-番号-ばんごう",
+    "kanji": "番号",
+    "reading": "ばんごう",
+    "meanings": [
+      "번호"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "電話番号を教えてください。",
+      "ko": "전화번호를 알려주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 519,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-晩御飯-ばんごはん",
+    "kanji": "晩御飯",
+    "reading": "ばんごはん",
+    "meanings": [
+      "저녁밥",
+      "저녁 식사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "家族と晩御飯を食べます。",
+      "ko": "가족과 저녁밥을 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 520,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-半分-はんぶん",
+    "kanji": "半分",
+    "reading": "はんぶん",
+    "meanings": [
+      "절반",
+      "반"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "りんごを半分に切ります。",
+      "ko": "사과를 반으로 자릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 521,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-東-ひがし",
+    "kanji": "東",
+    "reading": "ひがし",
+    "meanings": [
+      "동쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "太陽は東から昇ります。",
+      "ko": "태양은 동쪽에서 뜹니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 522,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-引く-ひく",
+    "kanji": "引く",
+    "reading": "ひく",
+    "meanings": [
+      "당기다",
+      "빼다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ドアを引いてください。",
+      "ko": "문을 당겨 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 523,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-弾く-ひく",
+    "kanji": "弾く",
+    "reading": "ひく",
+    "meanings": [
+      "연주하다",
+      "치다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "ピアノを弾きます。",
+      "ko": "피아노를 칩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 524,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-低い-ひくい",
+    "kanji": "低い",
+    "reading": "ひくい",
+    "meanings": [
+      "낮다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この机は低いです。",
+      "ko": "이 책상은 낮습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 525,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-飛行機-ひこうき",
+    "kanji": "飛行機",
+    "reading": "ひこうき",
+    "meanings": [
+      "비행기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "飛行機で日本へ行きます。",
+      "ko": "비행기로 일본에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 526,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-左-ひだり",
+    "kanji": "左",
+    "reading": "ひだり",
+    "meanings": [
+      "왼쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "左に曲がってください。",
+      "ko": "왼쪽으로 돌아주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 527,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-人-ひと",
+    "kanji": "人",
+    "reading": "ひと",
+    "meanings": [
+      "사람"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "あの人は先生です。",
+      "ko": "저 사람은 선생님입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 528,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一つ-ひとつ",
+    "kanji": "一つ",
+    "reading": "ひとつ",
+    "meanings": [
+      "한 개",
+      "하나"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "りんごを一つください。",
+      "ko": "사과 한 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 529,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一月-ひとつき",
+    "kanji": "一月",
+    "reading": "ひとつき",
+    "meanings": [
+      "한 달"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "日本に一月いました。",
+      "ko": "일본에 한 달 있었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 530,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-一人-ひとり",
+    "kanji": "一人",
+    "reading": "ひとり",
+    "meanings": [
+      "한 사람",
+      "혼자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "一人で映画を見ます。",
+      "ko": "혼자서 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 531,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-暇-ひま",
+    "kanji": "暇",
+    "reading": "ひま",
+    "meanings": [
+      "한가함",
+      "여가"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "今日は暇です。",
+      "ko": "오늘은 한가합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 532,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
