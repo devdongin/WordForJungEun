@@ -9794,5 +9794,371 @@
     ],
     "rank": 532,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-百-ひゃく",
+    "kanji": "百",
+    "reading": "ひゃく",
+    "meanings": [
+      "백",
+      "100"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "この本は百円です。",
+      "ko": "이 책은 백 엔입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 533,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-病院-びょういん",
+    "kanji": "病院",
+    "reading": "びょういん",
+    "meanings": [
+      "병원"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "母は病院で働いています。",
+      "ko": "어머니는 병원에서 일하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 534,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-病気-びょうき",
+    "kanji": "病気",
+    "reading": "びょうき",
+    "meanings": [
+      "병",
+      "질병"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "彼は病気で学校に来ませんでした。",
+      "ko": "그는 병으로 학교에 오지 않았습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 535,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-平仮名-ひらがな",
+    "kanji": "平仮名",
+    "reading": "ひらがな",
+    "meanings": [
+      "히라가나"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "平仮名で名前を書いてください。",
+      "ko": "히라가나로 이름을 써 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 536,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-昼-ひる",
+    "kanji": "昼",
+    "reading": "ひる",
+    "meanings": [
+      "낮",
+      "정오"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昼はいつも忙しいです。",
+      "ko": "낮에는 항상 바쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 537,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-昼御飯-ひるごはん",
+    "kanji": "昼御飯",
+    "reading": "ひるごはん",
+    "meanings": [
+      "점심밥",
+      "점심"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昼御飯は何を食べましたか。",
+      "ko": "점심은 무엇을 먹었습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 538,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-広い-ひろい",
+    "kanji": "広い",
+    "reading": "ひろい",
+    "meanings": [
+      "넓다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この部屋は広いですね。",
+      "ko": "이 방은 넓네요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 539,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-フィルム-フィルム",
+    "kanji": "",
+    "reading": "フィルム",
+    "meanings": [
+      "필름"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "カメラのフィルムを買いました。",
+      "ko": "카메라 필름을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 540,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-封筒-ふうとう",
+    "kanji": "封筒",
+    "reading": "ふうとう",
+    "meanings": [
+      "봉투"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "封筒に切手を貼ります。",
+      "ko": "봉투에 우표를 붙입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 541,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-プール-プール",
+    "kanji": "",
+    "reading": "プール",
+    "meanings": [
+      "수영장"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夏はよくプールに行きます。",
+      "ko": "여름에는 자주 수영장에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 542,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-フォーク-フォーク",
+    "kanji": "",
+    "reading": "フォーク",
+    "meanings": [
+      "포크"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "フォークで食べてください。",
+      "ko": "포크로 드세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 543,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-吹く-ふく",
+    "kanji": "吹く",
+    "reading": "ふく",
+    "meanings": [
+      "불다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "今日は風が強く吹いています。",
+      "ko": "오늘은 바람이 세게 불고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 544,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-服-ふく",
+    "kanji": "服",
+    "reading": "ふく",
+    "meanings": [
+      "옷"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "新しい服を買いました。",
+      "ko": "새 옷을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 545,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二つ-ふたつ",
+    "kanji": "二つ",
+    "reading": "ふたつ",
+    "meanings": [
+      "두 개"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "りんごを二つください。",
+      "ko": "사과를 두 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 546,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-豚肉-ぶたにく",
+    "kanji": "豚肉",
+    "reading": "ぶたにく",
+    "meanings": [
+      "돼지고기"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "豚肉が大好きです。",
+      "ko": "돼지고기를 아주 좋아합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 547,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二人-ふたり",
+    "kanji": "二人",
+    "reading": "ふたり",
+    "meanings": [
+      "두 사람"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "二人で映画を見ました。",
+      "ko": "두 사람이 영화를 봤습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 548,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-二日-ふつか",
+    "kanji": "二日",
+    "reading": "ふつか",
+    "meanings": [
+      "이틀",
+      "이일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "二日休みます。",
+      "ko": "이틀 쉽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 549,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-太い-ふとい",
+    "kanji": "太い",
+    "reading": "ふとい",
+    "meanings": [
+      "뚱뚱하다",
+      "굵다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この木はとても太いです。",
+      "ko": "이 나무는 매우 굵습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 550,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-冬-ふゆ",
+    "kanji": "冬",
+    "reading": "ふゆ",
+    "meanings": [
+      "겨울"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "冬は雪がたくさん降ります。",
+      "ko": "겨울에는 눈이 많이 내립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 551,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-降る-ふる",
+    "kanji": "降る",
+    "reading": "ふる",
+    "meanings": [
+      "내리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "明日は雨が降るでしょう。",
+      "ko": "내일은 비가 내릴 것입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 552,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
