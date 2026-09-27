@@ -10160,5 +10160,376 @@
     ],
     "rank": 552,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-文章-ぶんしょう",
+    "kanji": "文章",
+    "reading": "ぶんしょう",
+    "meanings": [
+      "문장",
+      "글"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この文章を読んでください。",
+      "ko": "이 문장을 읽어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 553,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ページ-ページ",
+    "kanji": "",
+    "reading": "ページ",
+    "meanings": [
+      "페이지",
+      "쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "本の20ページを開いてください。",
+      "ko": "책 20페이지를 펴 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 554,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-下手-へた",
+    "kanji": "下手",
+    "reading": "へた",
+    "meanings": [
+      "서투르다",
+      "잘 못하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "私は料理が下手です。",
+      "ko": "저는 요리를 잘 못합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 555,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ベッド-ベッド",
+    "kanji": "",
+    "reading": "ベッド",
+    "meanings": [
+      "침대"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ベッドで寝ます。",
+      "ko": "침대에서 잡니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 556,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ペット-ペット",
+    "kanji": "",
+    "reading": "ペット",
+    "meanings": [
+      "애완동물"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "犬をペットとして飼っています。",
+      "ko": "개를 애완동물로 키우고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 557,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-辺-へん",
+    "kanji": "辺",
+    "reading": "へん",
+    "meanings": [
+      "부근",
+      "근처"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この辺にコンビニはありますか。",
+      "ko": "이 근처에 편의점이 있습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 558,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ペン-ペン",
+    "kanji": "",
+    "reading": "ペン",
+    "meanings": [
+      "펜"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ペンで名前を書きます。",
+      "ko": "펜으로 이름을 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 559,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-勉強-べんきょう (する)",
+    "kanji": "勉強",
+    "reading": "べんきょう (する)",
+    "meanings": [
+      "공부"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "毎日日本語を勉強します。",
+      "ko": "매일 일본어를 공부합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 560,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-便利-べんり",
+    "kanji": "便利",
+    "reading": "べんり",
+    "meanings": [
+      "편리하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "このアプリはとても便利です。",
+      "ko": "이 앱은 아주 편리합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 561,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-帽子-ぼうし",
+    "kanji": "帽子",
+    "reading": "ぼうし",
+    "meanings": [
+      "모자"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "帽子をかぶって出かけます。",
+      "ko": "모자를 쓰고 외출합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 562,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ボールペン-ボールペン",
+    "kanji": "",
+    "reading": "ボールペン",
+    "meanings": [
+      "볼펜"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ボールペンで書いてください。",
+      "ko": "볼펜으로 써 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 563,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-外-ほか",
+    "kanji": "外",
+    "reading": "ほか",
+    "meanings": [
+      "다른 것",
+      "그 밖"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ほかに質問はありますか。",
+      "ko": "그 밖에 질문이 있습니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 564,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ポケット-ポケット",
+    "kanji": "",
+    "reading": "ポケット",
+    "meanings": [
+      "주머니"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "財布をポケットに入れました。",
+      "ko": "지갑을 주머니에 넣었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 565,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-欲しい-ほしい",
+    "kanji": "欲しい",
+    "reading": "ほしい",
+    "meanings": [
+      "원하다",
+      "갖고 싶다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "新しいパソコンが欲しいです。",
+      "ko": "새 컴퓨터를 갖고 싶습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 566,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ポスト-ポスト",
+    "kanji": "",
+    "reading": "ポスト",
+    "meanings": [
+      "우체통",
+      "우편함"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "手紙をポストに入れます。",
+      "ko": "편지를 우체통에 넣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 567,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-細い-ほそい",
+    "kanji": "細い",
+    "reading": "ほそい",
+    "meanings": [
+      "가늘다",
+      "얇다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この道は細いです。",
+      "ko": "이 길은 좁습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 568,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ボタン-ボタン",
+    "kanji": "",
+    "reading": "ボタン",
+    "meanings": [
+      "단추",
+      "버튼"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "このボタンを押してください。",
+      "ko": "이 버튼을 눌러 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 569,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ホテル-ホテル",
+    "kanji": "",
+    "reading": "ホテル",
+    "meanings": [
+      "호텔"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "駅の近くにホテルがあります。",
+      "ko": "역 근처에 호텔이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 570,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-本棚-ほんだな",
+    "kanji": "本棚",
+    "reading": "ほんだな",
+    "meanings": [
+      "책장",
+      "책꽂이"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "本棚に本を並べます。",
+      "ko": "책장에 책을 나란히 꽂습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 571,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-本当-ほんとう",
+    "kanji": "本当",
+    "reading": "ほんとう",
+    "meanings": [
+      "진짜",
+      "정말"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "それは本当の話ですか。",
+      "ko": "그것은 진짜 이야기입니까?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 572,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
