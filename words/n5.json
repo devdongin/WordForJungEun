@@ -10531,5 +10531,371 @@
     ],
     "rank": 572,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-毎朝-まいあさ",
+    "kanji": "毎朝",
+    "reading": "まいあさ",
+    "meanings": [
+      "매일 아침"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝六時に起きます。",
+      "ko": "매일 아침 6시에 일어납니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 573,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-毎週-まいしゅう",
+    "kanji": "毎週",
+    "reading": "まいしゅう",
+    "meanings": [
+      "매주"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎週日曜日に映画を見ます。",
+      "ko": "매주 일요일에 영화를 봅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 574,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-毎日-まいにち",
+    "kanji": "毎日",
+    "reading": "まいにち",
+    "meanings": [
+      "매일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日日本語を勉強します。",
+      "ko": "매일 일본어를 공부합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 575,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-毎晩-まいばん",
+    "kanji": "毎晩",
+    "reading": "まいばん",
+    "meanings": [
+      "매일 밤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎晩十時に寝ます。",
+      "ko": "매일 밤 10시에 잡니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 576,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-前-まえ",
+    "kanji": "前",
+    "reading": "まえ",
+    "meanings": [
+      "앞",
+      "전"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "駅の前で待っています。",
+      "ko": "역 앞에서 기다리고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 577,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-曲る-まがる",
+    "kanji": "曲る",
+    "reading": "まがる",
+    "meanings": [
+      "돌다",
+      "구부러지다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "次の角を右に曲がってください。",
+      "ko": "다음 모퉁이에서 오른쪽으로 도세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 578,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-まずい-まずい",
+    "kanji": "",
+    "reading": "まずい",
+    "meanings": [
+      "맛없다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この料理はまずいです。",
+      "ko": "이 요리는 맛없습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 579,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-また-また",
+    "kanji": "",
+    "reading": "また",
+    "meanings": [
+      "또",
+      "그리고"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "またあした会いましょう。",
+      "ko": "또 내일 만납시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 580,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-まだ-まだ",
+    "kanji": "",
+    "reading": "まだ",
+    "meanings": [
+      "아직"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "宿題はまだ終わっていません。",
+      "ko": "숙제는 아직 끝나지 않았습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 581,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-町-まち",
+    "kanji": "町",
+    "reading": "まち",
+    "meanings": [
+      "마을",
+      "도시"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この町はとても静かです。",
+      "ko": "이 마을은 매우 조용합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 582,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-待つ-まつ",
+    "kanji": "待つ",
+    "reading": "まつ",
+    "meanings": [
+      "기다리다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達をここで待ちます。",
+      "ko": "친구를 여기서 기다립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 583,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-まっすぐ-まっすぐ",
+    "kanji": "",
+    "reading": "まっすぐ",
+    "meanings": [
+      "똑바로",
+      "곧장"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "まっすぐ行ってください。",
+      "ko": "곧장 가세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 584,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-マッチ-マッチ",
+    "kanji": "",
+    "reading": "マッチ",
+    "meanings": [
+      "성냥"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "マッチで火をつけます。",
+      "ko": "성냥으로 불을 붙입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 585,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-窓-まど",
+    "kanji": "窓",
+    "reading": "まど",
+    "meanings": [
+      "창문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "窓を開けてください。",
+      "ko": "창문을 열어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 586,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-万-まん",
+    "kanji": "万",
+    "reading": "まん",
+    "meanings": [
+      "만"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "この車は百万円です。",
+      "ko": "이 차는 백만 엔입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 587,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-万年筆-まんねんひつ",
+    "kanji": "万年筆",
+    "reading": "まんねんひつ",
+    "meanings": [
+      "만년필"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "万年筆で手紙を書きます。",
+      "ko": "만년필로 편지를 씁니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 588,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-磨く-みがく",
+    "kanji": "磨く",
+    "reading": "みがく",
+    "meanings": [
+      "닦다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "毎朝歯を磨きます。",
+      "ko": "매일 아침 이를 닦습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 589,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-右-みぎ",
+    "kanji": "右",
+    "reading": "みぎ",
+    "meanings": [
+      "오른쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "右に銀行があります。",
+      "ko": "오른쪽에 은행이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 590,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-短い-みじかい",
+    "kanji": "短い",
+    "reading": "みじかい",
+    "meanings": [
+      "짧다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "彼女の髪は短いです。",
+      "ko": "그녀의 머리는 짧습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 591,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-見せる-みせる",
+    "kanji": "見せる",
+    "reading": "みせる",
+    "meanings": [
+      "보여주다",
+      "보이다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "写真を見せてください。",
+      "ko": "사진을 보여 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 592,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
