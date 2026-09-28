@@ -10897,5 +10897,375 @@
     ],
     "rank": 592,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-道-みち",
+    "kanji": "道",
+    "reading": "みち",
+    "meanings": [
+      "길",
+      "도로"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この道をまっすぐ行ってください。",
+      "ko": "이 길을 곧장 가세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 593,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-三日-みっか",
+    "kanji": "三日",
+    "reading": "みっか",
+    "meanings": [
+      "3일",
+      "사흘"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来週の三日に旅行に行きます。",
+      "ko": "다음 주 3일에 여행을 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 594,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-三つ-みっつ",
+    "kanji": "三つ",
+    "reading": "みっつ",
+    "meanings": [
+      "세 개",
+      "셋"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを三つください。",
+      "ko": "사과를 세 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 595,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-緑-みどり",
+    "kanji": "緑",
+    "reading": "みどり",
+    "meanings": [
+      "초록색",
+      "녹색"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "緑の葉がきれいです。",
+      "ko": "초록색 잎이 예쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 596,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-皆さん-みなさん",
+    "kanji": "皆さん",
+    "reading": "みなさん",
+    "meanings": [
+      "여러분"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "皆さん、おはようございます。",
+      "ko": "여러분, 안녕하세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 597,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-南-みなみ",
+    "kanji": "南",
+    "reading": "みなみ",
+    "meanings": [
+      "남쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "南の空はとても青いです。",
+      "ko": "남쪽 하늘은 매우 파랗습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 598,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-耳-みみ",
+    "kanji": "耳",
+    "reading": "みみ",
+    "meanings": [
+      "귀"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "耳が痛いです。",
+      "ko": "귀가 아픕니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 599,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-みんな-みんな",
+    "kanji": "",
+    "reading": "みんな",
+    "meanings": [
+      "모두",
+      "다들"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "みんなで公園に行きましょう。",
+      "ko": "다 같이 공원에 갑시다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 600,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-六日-むいか",
+    "kanji": "六日",
+    "reading": "むいか",
+    "meanings": [
+      "6일",
+      "엿새"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "誕生日は六日です。",
+      "ko": "생일은 6일입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 601,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-向こう-むこう",
+    "kanji": "向こう",
+    "reading": "むこう",
+    "meanings": [
+      "건너편",
+      "저쪽"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "向こうに大きい建物があります。",
+      "ko": "저쪽에 큰 건물이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 602,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-難しい-むずかしい",
+    "kanji": "難しい",
+    "reading": "むずかしい",
+    "meanings": [
+      "어렵다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この問題は難しいです。",
+      "ko": "이 문제는 어렵습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 603,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-六つ-むっつ",
+    "kanji": "六つ",
+    "reading": "むっつ",
+    "meanings": [
+      "여섯 개",
+      "여섯"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "みかんを六つ買いました。",
+      "ko": "귤을 여섯 개 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 604,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-村-むら",
+    "kanji": "村",
+    "reading": "むら",
+    "meanings": [
+      "마을"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "小さい村に住んでいます。",
+      "ko": "작은 마을에 살고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 605,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-目-め",
+    "kanji": "目",
+    "reading": "め",
+    "meanings": [
+      "눈"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "目が大きいです。",
+      "ko": "눈이 큽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 606,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-メートル-メートル",
+    "kanji": "",
+    "reading": "メートル",
+    "meanings": [
+      "미터"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "この川は五メートルの深さです。",
+      "ko": "이 강은 5미터 깊이입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 607,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-眼鏡-めがね",
+    "kanji": "眼鏡",
+    "reading": "めがね",
+    "meanings": [
+      "안경"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "眼鏡をかけています。",
+      "ko": "안경을 쓰고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 608,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-もう-もう",
+    "kanji": "",
+    "reading": "もう",
+    "meanings": [
+      "이미",
+      "벌써"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "もう晩ご飯を食べました。",
+      "ko": "벌써 저녁밥을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 609,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-木曜日-もくようび",
+    "kanji": "木曜日",
+    "reading": "もくようび",
+    "meanings": [
+      "목요일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "木曜日に会議があります。",
+      "ko": "목요일에 회의가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 610,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-もしもし-もしもし",
+    "kanji": "",
+    "reading": "もしもし",
+    "meanings": [
+      "여보세요"
+    ],
+    "pos": "감동사",
+    "example": {
+      "jp": "もしもし、田中さんですか。",
+      "ko": "여보세요, 다나카 씨인가요?"
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 611,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-持つ-もつ",
+    "kanji": "持つ",
+    "reading": "もつ",
+    "meanings": [
+      "들다",
+      "가지다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "荷物を持ってください。",
+      "ko": "짐을 들어 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 612,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
