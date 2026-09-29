@@ -11638,5 +11638,372 @@
     ],
     "rank": 632,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-洋服-ようふく",
+    "kanji": "洋服",
+    "reading": "ようふく",
+    "meanings": [
+      "양복",
+      "서양식 옷"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "きょう、あたらしい洋服を買いました。",
+      "ko": "오늘 새 양복을 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 633,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-よく-よく",
+    "kanji": "",
+    "reading": "よく",
+    "meanings": [
+      "자주",
+      "잘"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "わたしはよく図書館へ行きます。",
+      "ko": "저는 자주 도서관에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 634,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-横-よこ",
+    "kanji": "横",
+    "reading": "よこ",
+    "meanings": [
+      "옆",
+      "가로"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "わたしの横にすわってください。",
+      "ko": "제 옆에 앉아 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 635,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-四日-よっか",
+    "kanji": "四日",
+    "reading": "よっか",
+    "meanings": [
+      "나흘",
+      "4일"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来月の四日に旅行します。",
+      "ko": "다음 달 4일에 여행합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 636,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-四つ-よっつ",
+    "kanji": "四つ",
+    "reading": "よっつ",
+    "meanings": [
+      "네 개"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "りんごを四つください。",
+      "ko": "사과를 네 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 637,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-呼ぶ-よぶ",
+    "kanji": "呼ぶ",
+    "reading": "よぶ",
+    "meanings": [
+      "부르다",
+      "초대하다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友だちを家に呼びました。",
+      "ko": "친구를 집에 불렀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 638,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-弱い-よわい",
+    "kanji": "弱い",
+    "reading": "よわい",
+    "meanings": [
+      "약하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "わたしはお酒が弱いです。",
+      "ko": "저는 술이 약합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 639,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-来月-らいげつ",
+    "kanji": "来月",
+    "reading": "らいげつ",
+    "meanings": [
+      "다음 달"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来月、日本へ行きます。",
+      "ko": "다음 달에 일본에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 640,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-来週-らいしゅう",
+    "kanji": "来週",
+    "reading": "らいしゅう",
+    "meanings": [
+      "다음 주"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来週、テストがあります。",
+      "ko": "다음 주에 시험이 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 641,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-来年-らいねん",
+    "kanji": "来年",
+    "reading": "らいねん",
+    "meanings": [
+      "내년"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "来年、大学に入ります。",
+      "ko": "내년에 대학에 들어갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 642,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ラジオ-ラジオ",
+    "kanji": "",
+    "reading": "ラジオ",
+    "meanings": [
+      "라디오"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎朝ラジオを聞きます。",
+      "ko": "매일 아침 라디오를 듣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 643,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ラジオカセ-ラジオカセ",
+    "kanji": "",
+    "reading": "ラジオカセ",
+    "meanings": [
+      "라디오 카세트"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "ラジオカセで音楽を聞きます。",
+      "ko": "라디오 카세트로 음악을 듣습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 644,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-りっぱ-りっぱ",
+    "kanji": "",
+    "reading": "りっぱ",
+    "meanings": [
+      "훌륭하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "あの人はりっぱな医者です。",
+      "ko": "저 사람은 훌륭한 의사입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 645,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-留学生-りゅうがくせい",
+    "kanji": "留学生",
+    "reading": "りゅうがくせい",
+    "meanings": [
+      "유학생"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "わたしは中国からの留学生です。",
+      "ko": "저는 중국에서 온 유학생입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 646,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-両親-りょうしん",
+    "kanji": "両親",
+    "reading": "りょうしん",
+    "meanings": [
+      "부모"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "両親と一緒に旅行しました。",
+      "ko": "부모님과 함께 여행했습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 647,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-料理-りょうり",
+    "kanji": "料理",
+    "reading": "りょうり",
+    "meanings": [
+      "요리"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "母は毎日料理をします。",
+      "ko": "어머니는 매일 요리를 합니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 648,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-旅行-りょこう",
+    "kanji": "旅行",
+    "reading": "りょこう",
+    "meanings": [
+      "여행"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "夏休みに旅行に行きます。",
+      "ko": "여름 방학에 여행을 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 649,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-零-れい",
+    "kanji": "零",
+    "reading": "れい",
+    "meanings": [
+      "영",
+      "0"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "今日の気温は零度です。",
+      "ko": "오늘 기온은 영도입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 650,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-冷蔵庫-れいぞうこ",
+    "kanji": "冷蔵庫",
+    "reading": "れいぞうこ",
+    "meanings": [
+      "냉장고"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "冷蔵庫にジュースがあります。",
+      "ko": "냉장고에 주스가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 651,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-レコード-レコード",
+    "kanji": "",
+    "reading": "レコード",
+    "meanings": [
+      "레코드",
+      "음반"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父は古いレコードを持っています。",
+      "ko": "아버지는 오래된 레코드를 가지고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 652,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
