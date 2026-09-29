@@ -11267,5 +11267,376 @@
     ],
     "rank": 612,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-もっと-もっと",
+    "kanji": "",
+    "reading": "もっと",
+    "meanings": [
+      "더",
+      "좀 더"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "もっと野菜を食べてください。",
+      "ko": "채소를 좀 더 드세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 613,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-物-もの",
+    "kanji": "物",
+    "reading": "もの",
+    "meanings": [
+      "물건",
+      "것"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "これは私の物です。",
+      "ko": "이것은 제 물건입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 614,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-門-もん",
+    "kanji": "門",
+    "reading": "もん",
+    "meanings": [
+      "문",
+      "대문"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "門の前に猫がいます。",
+      "ko": "문 앞에 고양이가 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 615,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-問題-もんだい",
+    "kanji": "問題",
+    "reading": "もんだい",
+    "meanings": [
+      "문제"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "この問題は難しいです。",
+      "ko": "이 문제는 어렵습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 616,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-八百屋-やおや",
+    "kanji": "八百屋",
+    "reading": "やおや",
+    "meanings": [
+      "채소 가게",
+      "야채 가게"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "八百屋で野菜を買いました。",
+      "ko": "채소 가게에서 야채를 샀습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 617,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-野菜-やさい",
+    "kanji": "野菜",
+    "reading": "やさい",
+    "meanings": [
+      "야채",
+      "채소"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "毎日野菜を食べます。",
+      "ko": "매일 야채를 먹습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 618,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-易しい-やさしい",
+    "kanji": "易しい",
+    "reading": "やさしい",
+    "meanings": [
+      "쉽다",
+      "간단하다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "この本は易しいです。",
+      "ko": "이 책은 쉽습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 619,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-休み-やすみ",
+    "kanji": "休み",
+    "reading": "やすみ",
+    "meanings": [
+      "휴일",
+      "쉬는 날"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "今日は休みです。",
+      "ko": "오늘은 쉬는 날입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 620,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-休む-やすむ",
+    "kanji": "休む",
+    "reading": "やすむ",
+    "meanings": [
+      "쉬다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "明日会社を休みます。",
+      "ko": "내일 회사를 쉽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 621,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-八つ-やっつ",
+    "kanji": "八つ",
+    "reading": "やっつ",
+    "meanings": [
+      "여덟 개"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "りんごを八つください。",
+      "ko": "사과를 여덟 개 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 622,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-山-やま",
+    "kanji": "山",
+    "reading": "やま",
+    "meanings": [
+      "산"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "週末に山に登ります。",
+      "ko": "주말에 산에 오릅니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 623,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-やる-やる",
+    "kanji": "",
+    "reading": "やる",
+    "meanings": [
+      "하다",
+      "주다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "犬にえさをやります。",
+      "ko": "개에게 먹이를 줍니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 624,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-夕方-ゆうがた",
+    "kanji": "夕方",
+    "reading": "ゆうがた",
+    "meanings": [
+      "저녁때",
+      "해질녘"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夕方に雨が降りました。",
+      "ko": "저녁때 비가 내렸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 625,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-夕飯-ゆうはん",
+    "kanji": "夕飯",
+    "reading": "ゆうはん",
+    "meanings": [
+      "저녁밥",
+      "저녁 식사"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "夕飯を食べました。",
+      "ko": "저녁밥을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 626,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-郵便局-ゆうびんきょく",
+    "kanji": "郵便局",
+    "reading": "ゆうびんきょく",
+    "meanings": [
+      "우체국"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "郵便局で切手を買います。",
+      "ko": "우체국에서 우표를 삽니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 627,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-昨夜-ゆうべ",
+    "kanji": "昨夜",
+    "reading": "ゆうべ",
+    "meanings": [
+      "어젯밤"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "昨夜は寒かったです。",
+      "ko": "어젯밤은 추웠습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 628,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-有名-ゆうめい",
+    "kanji": "有名",
+    "reading": "ゆうめい",
+    "meanings": [
+      "유명하다"
+    ],
+    "pos": "な형용사",
+    "example": {
+      "jp": "彼は有名な歌手です。",
+      "ko": "그는 유명한 가수입니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 629,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-雪-ゆき",
+    "kanji": "雪",
+    "reading": "ゆき",
+    "meanings": [
+      "눈"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "冬に雪が降ります。",
+      "ko": "겨울에 눈이 내립니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 630,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ゆっくりと-ゆっくりと",
+    "kanji": "",
+    "reading": "ゆっくりと",
+    "meanings": [
+      "천천히"
+    ],
+    "pos": "부사",
+    "example": {
+      "jp": "ゆっくりと話してください。",
+      "ko": "천천히 말해 주세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 631,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-八日-ようか",
+    "kanji": "八日",
+    "reading": "ようか",
+    "meanings": [
+      "8일",
+      "여드레"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "八日に旅行に行きます。",
+      "ko": "8일에 여행을 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 632,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
