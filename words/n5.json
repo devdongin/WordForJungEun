@@ -12005,5 +12005,226 @@
     ],
     "rank": 652,
     "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-レストラン-レストラン",
+    "kanji": "",
+    "reading": "レストラン",
+    "meanings": [
+      "레스토랑",
+      "식당"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "友達とレストランで晩ご飯を食べました。",
+      "ko": "친구와 레스토랑에서 저녁을 먹었습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 653,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-練習-れんしゅう (する)",
+    "kanji": "練習",
+    "reading": "れんしゅう (する)",
+    "meanings": [
+      "연습"
+    ],
+    "pos": "명사·する동사",
+    "example": {
+      "jp": "毎日ピアノの練習をしています。",
+      "ko": "매일 피아노 연습을 하고 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 654,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-廊下-ろうか",
+    "kanji": "廊下",
+    "reading": "ろうか",
+    "meanings": [
+      "복도"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "廊下を走らないでください。",
+      "ko": "복도를 뛰지 마세요."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 655,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-六-ろく",
+    "kanji": "六",
+    "reading": "ろく",
+    "meanings": [
+      "여섯",
+      "육"
+    ],
+    "pos": "수사",
+    "example": {
+      "jp": "教室に椅子が六つあります。",
+      "ko": "교실에 의자가 여섯 개 있습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 656,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-ワイシャツ-ワイシャツ",
+    "kanji": "",
+    "reading": "ワイシャツ",
+    "meanings": [
+      "와이셔츠"
+    ],
+    "pos": "명사",
+    "example": {
+      "jp": "父は毎日白いワイシャツを着ます。",
+      "ko": "아버지는 매일 흰 와이셔츠를 입습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 657,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-若い-わかい",
+    "kanji": "若い",
+    "reading": "わかい",
+    "meanings": [
+      "젊다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "あの先生はとても若いです。",
+      "ko": "저 선생님은 매우 젊습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 658,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-分かる-わかる",
+    "kanji": "分かる",
+    "reading": "わかる",
+    "meanings": [
+      "이해하다",
+      "알다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "この漢字の意味が分かりません。",
+      "ko": "이 한자의 뜻을 모르겠습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 659,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-忘れる-わすれる",
+    "kanji": "忘れる",
+    "reading": "わすれる",
+    "meanings": [
+      "잊다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "宿題を忘れてしまいました。",
+      "ko": "숙제를 잊어버렸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 660,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-私-わたくし",
+    "kanji": "私",
+    "reading": "わたくし",
+    "meanings": [
+      "저",
+      "나"
+    ],
+    "pos": "대명사",
+    "example": {
+      "jp": "私くしがご案内いたします。",
+      "ko": "제가 안내해 드리겠습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 661,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-渡す-わたす",
+    "kanji": "渡す",
+    "reading": "わたす",
+    "meanings": [
+      "건네다",
+      "넘겨주다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "友達に本を渡しました。",
+      "ko": "친구에게 책을 건넸습니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 662,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-渡る-わたる",
+    "kanji": "渡る",
+    "reading": "わたる",
+    "meanings": [
+      "건너다"
+    ],
+    "pos": "동사",
+    "example": {
+      "jp": "信号を渡って学校へ行きます。",
+      "ko": "신호등을 건너서 학교에 갑니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 663,
+    "source": "open-anki-jlpt-decks (MIT)"
+  },
+  {
+    "id": "jp-悪い-わるい",
+    "kanji": "悪い",
+    "reading": "わるい",
+    "meanings": [
+      "나쁘다"
+    ],
+    "pos": "い형용사",
+    "example": {
+      "jp": "今日は天気が悪いです。",
+      "ko": "오늘은 날씨가 나쁩니다."
+    },
+    "tags": [
+      "N5"
+    ],
+    "rank": 664,
+    "source": "open-anki-jlpt-decks (MIT)"
   }
 ]
